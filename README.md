@@ -1,20 +1,12 @@
 # Installation
 
-* install python3
-* `sudo pip3 install setuptools wheel mkdocs-material mkdocs-minify-plugin`
-* `sudo git clone https://github.com/mkdocs/mkdocs.git`
-* 
-```
-cd mkdocs
-sudo python3 setup.py install
-sudo python3 setup.py build
-cd ..
-```
+* install docker
+* bash dev.sh
 
-# Debug
+# Debug from inside the container
 
-* mkdocs serve -a 0.0.0.0:8000
+* cd /app/src && mkdocs serve -a 0.0.0.0:8000
 
-# Compilation
+# Compilation from inside the container
 
-* mkdocs build
+* cd /app/src && mkdocs build -d /app/docs
