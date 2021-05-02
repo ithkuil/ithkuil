@@ -12,6 +12,6 @@ RUN apt-get install -y vim nano
 
 RUN pip3 install mkdocs mkdocs-material mkdocs-minify-plugin
 
-RUN mkdir /app
+RUN echo 'alias build="cd /app/src && mkdocs build -d /app/docs"' >> ~/.bashrc
 
 WORKDIR /app/src
