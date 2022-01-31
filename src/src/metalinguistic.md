@@ -40,7 +40,7 @@
 
 ### REB Rebuttative
 
-<description><this this>THIS [Propositional](/metalinguistic/#pps-propositional)</this> statement additionally refutes an earlier statement.</description>
+<description><this this>THIS [Propositional](https://ithkuil.github.io/ithkuil/metalinguistic/#pps-propositional)</this> statement additionally refutes an earlier statement.</description>
 
 ### THR Theoretical
 
@@ -52,7 +52,7 @@
 
 ### AXM Axiomatic
 
-<description><this this>THIS [Propositional](/metalinguistic/#pps-propositional)</this> statement can't be refuted or argued.</description>
+<description><this this>THIS [Propositional](https://ithkuil.github.io/ithkuil/metalinguistic/#pps-propositional)</this> statement can't be refuted or argued.</description>
 
 > We are on the Earth.
 

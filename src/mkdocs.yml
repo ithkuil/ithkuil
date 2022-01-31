@@ -1,5 +1,5 @@
 site_name: Ithkuil
-site_url: https://ithkuil.lojban.pw
+site_url: https://ithkuil.github.io/ithkuil/
 plugins:
     - search
     - minify:

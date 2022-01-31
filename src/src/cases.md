@@ -4,7 +4,7 @@
 
 ## Transrelative cases
 
-<description>Almost the half of languages of the world have [Ergative](/cases/#erg-ergative)-[Absolutive](/cases/#abs-absolutive) structure. Another half has nominative-accusative structure. So two duads. It's interesting that [Ergative](/cases/#erg-ergative) and [Absolutive](/cases/#abs-absolutive) are not two parts of a duad in Ithkuil but instead just two cases among many others.</description>
+<description>Almost the half of languages of the world have [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)-[Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) structure. Another half has nominative-accusative structure. So two duads. It's interesting that [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) are not two parts of a duad in Ithkuil but instead just two cases among many others.</description>
 
 ### OBL Oblique
 
@@ -14,21 +14,21 @@
 
 > This is what I want.
 
-> The floor is made of stone ([Oblique](/cases/#obl-oblique)).
+> The floor is made of stone ([Oblique](https://ithkuil.github.io/ithkuil/cases/#obl-oblique)).
 
 ### ERG Ergative
 
 <description><this this>THIS</this> plays the role of agent.</description>
 
-<description><this this>THIS</this> agent while having some will starts an act of <this context>CONTEXT</this> resulting in some change of properties in <this another>ANOTHER [Absolutive](/cases/#abs-absolutive)</this>.</description>
+<description><this this>THIS</this> agent while having some will starts an act of <this context>CONTEXT</this> resulting in some change of properties in <this another>ANOTHER [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive)</this>.</description>
 
 > The dog bit the man.
 
-> *[Ergative](/cases/#erg-ergative) bit the man.*
+> *[Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) bit the man.*
 
 > The policeman forced the criminal to stop.
 
-> *[Ergative](/cases/#erg-ergative) forced [Absolutive](/cases/#abs-absolutive) to stop.*
+> *[Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) forced [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) to stop.*
 
 <lojban><jbo>le gasnu</jbo>, <jbo>le zukte</jbo></lojban>
 
@@ -36,11 +36,11 @@
 
 ### ABS Absolutive
 
-<description><this this>THIS</this> plays the role of patient. [Ergative](/cases/#erg-ergative) might not be present in <this context>CONTEXT</this>.</description>
+<description><this this>THIS</this> plays the role of patient. [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) might not be present in <this context>CONTEXT</this>.</description>
 
 > A coin fell from above.
 
-> *[Absolutive](/cases/#abs-absolutive) fell from above.*
+> *[Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) fell from above.*
 
 <lojban><jbo>[ABS-argument] jai se gasnu</jbo> == <jbo>tu'a [ABS-argument] se gasnu</jbo> where <jbo>tu'a ko'a</jbo> == <jbo>le su'u co'e ko'a</jbo></lojban>
 
@@ -52,13 +52,13 @@
 
 <lojban>Interestingly <jbo>le rinka</jbo> is an abstraction. Whereas <jbo>le gasnu</jbo> is an object. If sumti-raising were always allowed in Lojban then we would have <jbo>rinka fi zi'o == gasnu</jbo></lojban>
 
-### Combination of [Ergative](/cases/#erg-ergative) and [Absolutive](/cases/#abs-absolutive)
+### Combination of [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive)
 
 > 1. I drove the car fast.
 
 > 2. The car went fast.
 
-<description>The two sentences show different focus. In Ithkuil dropping [Ergative](/cases/#erg-ergative)-labeled formative changes the meaning from 1. to 2.</description>
+<description>The two sentences show different focus. In Ithkuil dropping [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)-labeled formative changes the meaning from 1. to 2.</description>
 
 <lojban>omit <jbo>gasnu</jbo> or derived verbs</lojban>
 
@@ -66,7 +66,7 @@
 
 ### ACT Activative
 
-<description><this this>THIS</this> is engaged in a <this context>[Modality](/verbs/#modality) CONTEXT</this> state of creating a currently unrealized situation that may realize at some step.</description>
+<description><this this>THIS</this> is engaged in a <this context>[Modality](https://ithkuil.github.io/ithkuil/verbs/#modality) CONTEXT</this> state of creating a currently unrealized situation that may realize at some step.</description>
 
 > You should go home.
 
@@ -116,7 +116,7 @@
 
 ### AFF Affective
 
-<description><this this>THIS</this> plays the role of experiencer in <this context>CONTEXT</this>, <this this>THIS</this> is in a state not requiring will. If <this this>THIS</this> induced the state then [Inducive](/cases/#ind-inducive) is to be used instead.
+<description><this this>THIS</this> plays the role of experiencer in <this context>CONTEXT</this>, <this this>THIS</this> is in a state not requiring will. If <this this>THIS</this> induced the state then [Inducive](https://ithkuil.github.io/ithkuil/cases/#ind-inducive) is to be used instead.
 
 > I'm in pain.
 
@@ -128,7 +128,7 @@
 
 ### IND Inducive
 
-<description><this this>THIS</this> is both [Ergative](/cases/#erg-ergative) and [Absolutive](/cases/#abs-absolutive).</description>
+<description><this this>THIS</this> is both [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive).</description>
 
 > The dog started jumping.
 
@@ -171,7 +171,7 @@
 
 ### POS Possessive
 
-<description><this this>THIS</this> alienably possesses <this another>ANOTHER</this>. No inherent relation is implied, the two arguments describe two objects that can e.g. be physically separated without them losing any their defining properties except for the possession/being possessed marked with the [Possesive](/cases/#pos-possessive) in question.</description>
+<description><this this>THIS</this> alienably possesses <this another>ANOTHER</this>. No inherent relation is implied, the two arguments describe two objects that can e.g. be physically separated without them losing any their defining properties except for the possession/being possessed marked with the [Possesive](https://ithkuil.github.io/ithkuil/cases/#pos-possessive) in question.</description>
 
 > Where is my chair?
 
@@ -205,7 +205,7 @@
 
 ### ATT Attributive
 
-<description><this this>THIS</this> is “possessed” by <this another>ANOTHER [Affective](/cases/#aff-affective)</this>.</description>
+<description><this this>THIS</this> is “possessed” by <this another>ANOTHER [Affective](https://ithkuil.github.io/ithkuil/cases/#aff-affective)</this>.</description>
 
 > My pain is strong.
 
@@ -237,7 +237,7 @@
 
 ### OGN Originative
 
-<description><this this>THIS</this> is the literal or metaphorical source of <this another>ANOTHER</this>. Notice that [Ablative](/cases/#abl-ablative) marks beginning points of a route whereas [Originative](/cases/#ogn-originative) provides necessary source context to avoid confusion with similar arguments.</description>
+<description><this this>THIS</this> is the literal or metaphorical source of <this another>ANOTHER</this>. Notice that [Ablative](https://ithkuil.github.io/ithkuil/cases/#abl-ablative) marks beginning points of a route whereas [Originative](https://ithkuil.github.io/ithkuil/cases/#ogn-originative) provides necessary source context to avoid confusion with similar arguments.</description>
 
 > Our donations
 
@@ -255,7 +255,7 @@
 
 ### PAR Partitive
 
-<description><this this>THIS</this> is a part of some uncountable <this another>ANOTHER</this> (the latter can be omitted). Numbers can be marked with [Partitive](/cases/#par-partitive) too (like “threesome of …”).</description>
+<description><this this>THIS</this> is a part of some uncountable <this another>ANOTHER</this> (the latter can be omitted). Numbers can be marked with [Partitive](https://ithkuil.github.io/ithkuil/cases/#par-partitive) too (like “threesome of …”).</description>
 
 > I ate a piece of cake.
 
@@ -297,7 +297,7 @@
 
 ### PRD Predicative
 
-<description>marks <this this>THIS</this> as a basis or requirement for <this another>ANOTHER</this>. Compare: unlike [Derivative](/cases/#der-derivative), [Instrumental](/cases/#ins-instrumental) doesn't imply causation (e.g. attitude may be caused by events but it doesn't depend on events, and hence [Predicative](/cases/#prd-predicative) is not applicable).</description>
+<description>marks <this this>THIS</this> as a basis or requirement for <this another>ANOTHER</this>. Compare: unlike [Derivative](https://ithkuil.github.io/ithkuil/cases/#der-derivative), [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental) doesn't imply causation (e.g. attitude may be caused by events but it doesn't depend on events, and hence [Predicative](https://ithkuil.github.io/ithkuil/cases/#prd-predicative) is not applicable).</description>
 
 > Behaviour based on common sense
 
@@ -315,7 +315,7 @@
 
 ### MED Mediative
 
-<description><this this>THIS</this> is a medium through which <this another>ANOTHER</this> is realized. Compare: [Instrumental](/cases/#ins-instrumental) marks instrumental means to complete an action, not media.</description>
+<description><this this>THIS</this> is a medium through which <this another>ANOTHER</this> is realized. Compare: [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental) marks instrumental means to complete an action, not media.</description>
 
 > I heard some news on TV.
 
@@ -343,7 +343,7 @@
 
 ### Commutative
 
-<description><this this>THIS</this> is what <this another>ANOTHER</this> (e.g. <this another>ANOTHER [Ergative](/cases/#erg-ergative)</this>) receives in exchange for their actions.</description>
+<description><this this>THIS</this> is what <this another>ANOTHER</this> (e.g. <this another>ANOTHER [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)</this>) receives in exchange for their actions.</description>
 
 > He let us in in exchange for a few local coins.
 
@@ -355,7 +355,7 @@
 
 ### UTL Utilitative
 
-<description><this this>THIS</this> is being used in the event of action of <this another>ANOTHER</this> in <this context>CONTEXT</this> but is not used to perform the action of <this context>CONTEXT</this> itself (unlike [Instrumental](/cases/#ins-instrumental)).</description>
+<description><this this>THIS</this> is being used in the event of action of <this another>ANOTHER</this> in <this context>CONTEXT</this> but is not used to perform the action of <this context>CONTEXT</this> itself (unlike [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental)).</description>
 
 > A man with a cow showed up at the exhibition.
 
@@ -390,7 +390,7 @@
 
 > It is right next to me.
 
-> Ecological ([Correlative](/cases/#cor-correlative)) situation is deteriorating.
+> Ecological ([Correlative](https://ithkuil.github.io/ithkuil/cases/#cor-correlative)) situation is deteriorating.
 
 ### CNV Conductive
 
@@ -514,7 +514,7 @@
 
 ### IDP Interdependent
 
-<description><this this>THIS</this> has an interdependent relationship with <this another>ANOTHER</this>. <this this>THIS</this> and <this another>ANOTHER</this> are both required for the relationship to exist. [Partitive](/cases/#par-partitive) is not implied.</description>
+<description><this this>THIS</this> has an interdependent relationship with <this another>ANOTHER</this>. <this this>THIS</this> and <this another>ANOTHER</this> are both required for the relationship to exist. [Partitive](https://ithkuil.github.io/ithkuil/cases/#par-partitive) is not implied.</description>
 
 > She is my teacher.
 
@@ -632,7 +632,7 @@
 
 ### ACS Accessive
 
-<description><this context>CONTEXT</this> happens during <this this>THIS [Punctual](/verbs/#pun-punctual)</this> event.</description>
+<description><this context>CONTEXT</this> happens during <this this>THIS [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual)</this> event.</description>
 
 > When you mother comes home call me.
 
@@ -720,7 +720,7 @@ Your dog has grown much bigger over the last few months.
 
 ## Spatial cases
 
-<description>see [Correative](/cases/#cor-correlative) in sentences involving spatial direction or orientation.</description>
+<description>see [Correative](https://ithkuil.github.io/ithkuil/cases/#cor-correlative) in sentences involving spatial direction or orientation.</description>
 
 ### LOC Locative
 
@@ -746,7 +746,7 @@ Your dog has grown much bigger over the last few months.
 
 ### PSV Procursive
 
-<description><this this>THIS</this> is part of body or object faces <this context>CONTEXT</this> (usually <this context>[Allative](/cases/#all-allative) CONTEXT</this>) thus forming the event.</description>
+<description><this this>THIS</this> is part of body or object faces <this context>CONTEXT</this> (usually <this context>[Allative](https://ithkuil.github.io/ithkuil/cases/#all-allative) CONTEXT</this>) thus forming the event.</description>
 
 > My hand touched the wall.
 

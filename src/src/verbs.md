@@ -6,31 +6,31 @@ Aspect is otherwise called “tense contour”, it provides inner structure of e
 
 ### RTR Retrospective
 
-<description>usually used together with [Perspective](/basic/#perspective).</description>
+<description>usually used together with [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective).</description>
 
-> [Retrospective](/verbs/#rtr-retrospective) + [Monadic](/basic/#m-monadic): <this another>ANOTHER</this> has already done it.
+> [Retrospective](https://ithkuil.github.io/ithkuil/verbs/#rtr-retrospective) + [Monadic](https://ithkuil.github.io/ithkuil/basic/#m-monadic): <this another>ANOTHER</this> has already done it.
 
-> [Retrospective](/verbs/#rtr-retrospective) + [Unbounded](/basic/#u-unbounded): <this another>ANOTHER</this> did it (Past Simple tense).
+> [Retrospective](https://ithkuil.github.io/ithkuil/verbs/#rtr-retrospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded): <this another>ANOTHER</this> did it (Past Simple tense).
 
-> [Retrospective](/verbs/#rtr-retrospective) + [Unbounded](/basic/#u-unbounded) + [Gnomic](/basic/#n-gnomic) + [Abstract](/basic/#a-abstract): <this another>ANOTHER</this> did it and it's always been like that.
+> [Retrospective](https://ithkuil.github.io/ithkuil/verbs/#rtr-retrospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded) + [Gnomic](https://ithkuil.github.io/ithkuil/basic/#n-gnomic) + [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract): <this another>ANOTHER</this> did it and it's always been like that.
 
 ### PRS Prospective
 
-<description>usually used together with [Perspective](/basic/#perspective).</description>
+<description>usually used together with [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective).</description>
 
-> [Prospective](/verbs/#prs-prospective) + [Monadic](/basic/#m-monadic): <this another>ANOTHER</this> will do it.
+> [Prospective](https://ithkuil.github.io/ithkuil/verbs/#prs-prospective) + [Monadic](https://ithkuil.github.io/ithkuil/basic/#m-monadic): <this another>ANOTHER</this> will do it.
 
-> [Prospective](/verbs/#prs-prospective) + [Unbounded](/basic/#u-unbounded): <this another>ANOTHER</this> will have done it.
+> [Prospective](https://ithkuil.github.io/ithkuil/verbs/#prs-prospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded): <this another>ANOTHER</this> will have done it.
 
-> [Prospective](/verbs/#prs-prospective) + [Gnomic](/basic/#n-gnomic)+[Abstract](/basic/#a-abstract): <this another>ANOTHER</this> will do it and it will always be like that.
+> [Prospective](https://ithkuil.github.io/ithkuil/verbs/#prs-prospective) + [Gnomic](https://ithkuil.github.io/ithkuil/basic/#n-gnomic)+[Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract): <this another>ANOTHER</this> will do it and it will always be like that.
 
 ### HAB Habitual
 
 Description:
 
-> [Habitual](/verbs/#hab-habitual) + [Monadic](/basic/#m-monadic): <this another>ANOTHER</this> always does <this this>THIS</this>. <this another>ANOTHER</this> continues to do <this this>THIS</this>
+> [Habitual](https://ithkuil.github.io/ithkuil/verbs/#hab-habitual) + [Monadic](https://ithkuil.github.io/ithkuil/basic/#m-monadic): <this another>ANOTHER</this> always does <this this>THIS</this>. <this another>ANOTHER</this> continues to do <this this>THIS</this>
 
-> [Habitual](/verbs/#hab-habitual) + [Unbounded](/basic/#u-unbounded): <this another>ANOTHER</this> used to do <this this>THIS</this>.
+> [Habitual](https://ithkuil.github.io/ithkuil/verbs/#hab-habitual) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded): <this another>ANOTHER</this> used to do <this this>THIS</this>.
 
 ### PRG Progressive
 
@@ -132,9 +132,9 @@ Description:
 
 <description><this this>THIS</this> happens for a long time. When used with root specifying short durations implies <this this>THIS</this> happens for too long.</description>
 
-> [Protractive](/verbs/#ptc-protractive) + [Contextual](/verbs/#ctx-contextual): <this this>THIS</this> happens for too long
+> [Protractive](https://ithkuil.github.io/ithkuil/verbs/#ptc-protractive) + [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual): <this this>THIS</this> happens for too long
 
-> [Protractive](/verbs/#ptc-protractive) + [Punctual](/verbs/#pun-punctual): <this this>THIS</this> happens for too long
+> [Protractive](https://ithkuil.github.io/ithkuil/verbs/#ptc-protractive) + [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual): <this this>THIS</this> happens for too long
 
 > It was raining all week long.
 
@@ -310,7 +310,7 @@ Description:
 
 ### ITR Iterative
 
-<description><this this>THIS</this> is a repetition of a [Punctual](/verbs/#pun-punctual) event in a regular staccato manner.</description>
+<description><this this>THIS</this> is a repetition of a [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) event in a regular staccato manner.</description>
 
 > And she played staccato.
 
@@ -320,7 +320,7 @@ Description:
 
 ### REP Repetitive
 
-<description><this this>THIS</this> is a repetition of a [Contextual](/verbs/#ctx-contextual) event in a regular staccato manner.</description>
+<description><this this>THIS</this> is a repetition of a [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) event in a regular staccato manner.</description>
 
 > I heard the honk repeated several times.
 
@@ -328,29 +328,29 @@ Description:
 
 ### ITM Intermittent
 
-<description><this this>THIS</this> is an [Iterative](/verbs/#itr-iterative) event but with some [Punctual](/verbs/#pun-punctual) events standing apart between contextually meaningful intervals.</description>
+<description><this this>THIS</this> is an [Iterative](https://ithkuil.github.io/ithkuil/verbs/#itr-iterative) event but with some [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) events standing apart between contextually meaningful intervals.</description>
 
 > Each refrain starts with a click sound.
 
 ### RCT Recurrent
 
-<description><this this>THIS</this> is a repetition of a [Contextual](/verbs/#ctx-contextual) event in a regular staccato manner but with the [Contextual](/verbs/#ctx-contextual) events standing apart between contextually meaningful interval.</description>
+<description><this this>THIS</this> is a repetition of a [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) event in a regular staccato manner but with the [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) events standing apart between contextually meaningful interval.</description>
 
 > The sound of a cuckoo was heard several times while we were eating dinner.
 
 ### FRE Frequentative
 
-<description>An [Iterative](/verbs/#itr-iterative) event <this>X</this> is repeated, each instance of <this>X</this> is separated by meaningful intervals and thus make up <this this>THIS</this> event. <this this>THIS</this> is of [Contextual](/verbs/#ctx-contextual) type.</description>
+<description>An [Iterative](https://ithkuil.github.io/ithkuil/verbs/#itr-iterative) event <this>X</this> is repeated, each instance of <this>X</this> is separated by meaningful intervals and thus make up <this this>THIS</this> event. <this this>THIS</this> is of [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) type.</description>
 
 ### FRG Fragmentative
 
-<description>Irregularly repeated [Punctual](/verbs/#pun-punctual) events form <this this>THIS [Contextual](/verbs/#ctx-contextual)</this> event.</description>
+<description>Irregularly repeated [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) events form <this this>THIS [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual)</this> event.</description>
 
 <lojban><jbo>ze'a di'inai co'i</jbo></lojban>
 
 ### FLC Fluctuative
 
-<description><this this>THIS</this> is a series of irregularly repeated [Punctual](/verbs/#pun-punctual) and non-punctual events.</description>
+<description><this this>THIS</this> is a series of irregularly repeated [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) and non-punctual events.</description>
 
 > The building was on fire with short explosions that were followed by the tongues of fire licking the wood. And that was happening here and there.
 
@@ -386,9 +386,9 @@ Description:
 
 > _I'm happy because of Ithkuil. Ithkuil makes me happy._
 
-> _I'm happy ([Stative](/verbs/#sta-stative)) because Ithkuil exists._
+> _I'm happy ([Stative](https://ithkuil.github.io/ithkuil/verbs/#sta-stative)) because Ithkuil exists._
 
-> _I show happiness ([Dynamic](/verbs/#dyn-dynamic)) because of Ithkuil._
+> _I show happiness ([Dynamic](https://ithkuil.github.io/ithkuil/verbs/#dyn-dynamic)) because of Ithkuil._
 
 > _STA: A state of eating a mango._
 
@@ -420,7 +420,7 @@ Note that in the following examples the choice of metalinguistic indicator <jbo>
 
 ### SUB Subjunctive
 
-<description>The <this attached>ATTACHED</this> presupposition is certain but <this context>CONTEXT</this> itself is not. Use [Bias](/verbs/#bias) or [Validation](/metalinguistic/#validation) to make factuality clear.</description>
+<description>The <this attached>ATTACHED</this> presupposition is certain but <this context>CONTEXT</this> itself is not. Use [Bias](https://ithkuil.github.io/ithkuil/verbs/#bias) or [Validation](https://ithkuil.github.io/ithkuil/metalinguistic/#validation) to make factuality clear.</description>
 
 > Maybe his dog is big. (it's known that there is his dog but it's not know if it's big)
 
@@ -460,7 +460,7 @@ Note that in the following examples the choice of metalinguistic indicator <jbo>
 
 ### ASC Ascriptive
 
-<description>same as [Implicative](/verbs/#ipl-implicative) but <this context>CONTEXT</this> is uncertain.</description>
+<description>same as [Implicative](https://ithkuil.github.io/ithkuil/verbs/#ipl-implicative) but <this context>CONTEXT</this> is uncertain.</description>
 
 > His dog might be big by now (e.g. because he has lots of food at home)
 
@@ -476,7 +476,7 @@ Note that in the following examples the choice of metalinguistic indicator <jbo>
 
 ### Usage examples
 
-<description>[Processual](/verbs/#prc-processual) and [Completive](/verbs/#cpt-completive).</description>
+<description>[Processual](https://ithkuil.github.io/ithkuil/verbs/#prc-processual) and [Completive](https://ithkuil.github.io/ithkuil/verbs/#cpt-completive).</description>
 
 > I studied Ithkuil and mastered it.
 
@@ -497,25 +497,25 @@ Note that in the following examples the choice of metalinguistic indicator <jbo>
 
 ### INE Ineffectual
 
-<description>there is an intention in <this context>CONTEXT</this> for [Processual](/verbs/#prc-processual) and is not yet successful or unsuccessful.</description>
+<description>there is an intention in <this context>CONTEXT</this> for [Processual](https://ithkuil.github.io/ithkuil/verbs/#prc-processual) and is not yet successful or unsuccessful.</description>
 
 > I tried to eat the mango but couldn't.
 
 ### INC Incompletive
 
-<description>there is an intention in <this context>CONTEXT</this> for [Completive](/verbs/#cpt-completive) but is unsuccessful.</description>
+<description>there is an intention in <this context>CONTEXT</this> for [Completive](https://ithkuil.github.io/ithkuil/verbs/#cpt-completive) but is unsuccessful.</description>
 
 > I tried to eat the mango up but couldn't.
 
 ### PST Positive
 
-<description>there is an intention in <this context>CONTEXT</this> for [Processual](/verbs/#prc-processual) and is successful.</description>
+<description>there is an intention in <this context>CONTEXT</this> for [Processual](https://ithkuil.github.io/ithkuil/verbs/#prc-processual) and is successful.</description>
 
 > I succeeded in eating the mango.
 
 ### EFC Effective
 
-<description> there is an intention in <this context>CONTEXT</this> for [Completive](/verbs/#cpt-completive) and is successful.</description>
+<description> there is an intention in <this context>CONTEXT</this> for [Completive](https://ithkuil.github.io/ithkuil/verbs/#cpt-completive) and is successful.</description>
 
 > I succeeded in eating the mango up.
 
@@ -737,59 +737,59 @@ Modality determines types of imaginary/non-imaginary events like those described
 
 > <this another>ANOTHER</this> believes that <this this>THIS</this> happens.
 
-<this another>ANOTHER</this> is usually [Activative](/cases/#act-activative), <this this>THIS</this> usually changes [Essence](/basic/#essence), [Perspective](/basic/#perspective) and [Modality](/verbs/#modality) at the same time (e.g. [Abstract](/basic/#a-abstract) [Perspective](/basic/#perspective), [Representative](/basic/#rpv-representative) (if imaginary) [Essence](/basic/#essence)).
+<this another>ANOTHER</this> is usually [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative), <this this>THIS</this> usually changes [Essence](https://ithkuil.github.io/ithkuil/basic/#essence), [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective) and [Modality](https://ithkuil.github.io/ithkuil/verbs/#modality) at the same time (e.g. [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract) [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective), [Representative](https://ithkuil.github.io/ithkuil/basic/#rpv-representative) (if imaginary) [Essence](https://ithkuil.github.io/ithkuil/basic/#essence)).
 
 ### DES Desiderative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> wants <this this>THIS</this> to happen, <this another>ANOTHER [Activative](/cases/#act-activative)</this> has a desire for <this this>THIS</this> to happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> wants <this this>THIS</this> to happen, <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has a desire for <this this>THIS</this> to happen.</description>
 
 ### ASP Aspirative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> wishes that <this this>THIS</this> happens, <this another>ANOTHER [Activative](/cases/#act-activative)</this> hopes that <this this>THIS</this> happens.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> wishes that <this this>THIS</this> happens, <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> hopes that <this this>THIS</this> happens.</description>
 
 ### EPC Expectative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> expects <this this>THIS</this> to happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> expects <this this>THIS</this> to happen.</description>
 
 ### CRD Credential
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> believes that <this this>THIS</this> is true. Doesn't imply “to opine that ...”).</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> believes that <this this>THIS</this> is true. Doesn't imply “to opine that ...”).</description>
 
 ### REQ Requisitive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> makes a request so that <this this>THIS</this> happens.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> makes a request so that <this this>THIS</this> happens.</description>
 
 ### EXH Exhortative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> demands for <this this>THIS</this> to happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> demands for <this this>THIS</this> to happen.</description>
 
 ### OPR Opportunitive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> has the opportunity to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has the opportunity to do <this this>THIS</this>.</description>
 
 ### CPC Capacitative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> has the ability to do <this this>THIS</this>, is capable of doing <this this>THIS</this>, could do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has the ability to do <this this>THIS</this>, is capable of doing <this this>THIS</this>, could do <this this>THIS</this>.</description>
 
 ### PRM Permissive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> is allowed to do <this this>THIS</this>, has permission to do <this this>THIS</this>, may do <this this>THIS</this> (in having permissions).</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is allowed to do <this this>THIS</this>, has permission to do <this this>THIS</this>, may do <this this>THIS</this> (in having permissions).</description>
 
 > May I come in?
 
 ### PTN Potential
 
-<description>It's possible that <this this>THIS</this> happens, <this another>ANOTHER [Activative](/cases/#act-activative)</this> can potentially be/do <this this>THIS</this>.</description>
+<description>It's possible that <this this>THIS</this> happens, <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> can potentially be/do <this this>THIS</this>.</description>
 
 > The gates may open at any time.
 
 ### CLS Compulsory
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> must do <this this>THIS</this>, has to do <this this>THIS</this>, is compulsory obliged to be/do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> must do <this this>THIS</this>, has to do <this this>THIS</this>, is compulsory obliged to be/do <this this>THIS</this>.</description>
 
 ### OBG Obligative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> ought to be/do <this this>THIS</this>, should do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> ought to be/do <this this>THIS</this>, should do <this this>THIS</this>.</description>
 
 > You should tell that to your parents.
 
@@ -799,7 +799,7 @@ Modality determines types of imaginary/non-imaginary events like those described
 
 ### IMS Impositive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> is supposed to be/do <this this>THIS</this>, is expected to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is supposed to be/do <this this>THIS</this>, is expected to do <this this>THIS</this>.</description>
 
 > You are not supposed to be here.
 
@@ -807,75 +807,75 @@ Modality determines types of imaginary/non-imaginary events like those described
 
 ### ADV Advocative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> suggests that <this this>THIS</this> happen, proposes that <this this>THIS</this> happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> suggests that <this this>THIS</this> happen, proposes that <this this>THIS</this> happen.</description>
 
 ### ITV Intentive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> has intention to be/do <this this>THIS</this>, plans to do <this this>THIS</this>..</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has intention to be/do <this this>THIS</this>, plans to do <this this>THIS</this>..</description>
 
 ### ANT Anticipative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> looks forward to <this this>THIS</this>, anticipates <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> looks forward to <this this>THIS</this>, anticipates <this this>THIS</this>.</description>
 
 ### DSP Dispositive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> is willing to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is willing to do <this this>THIS</this>.</description>
 
 ### PRE Preparative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> is ready for <this this>THIS</this>, is prepared to be/do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is ready for <this this>THIS</this>, is prepared to be/do <this this>THIS</this>.</description>
 
 ### NEC Necessitative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> needs to be/do <this this>THIS</this>. It's necessary for <this another>ANOTHER [Activative](/cases/#act-activative)</this> to be/do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> needs to be/do <this this>THIS</this>. It's necessary for <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> to be/do <this this>THIS</this>.</description>
 
 ### DCV Decisive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> chooses to do <this this>THIS</this>, makes <this this>THIS</this> choice.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> chooses to do <this this>THIS</this>, makes <this this>THIS</this> choice.</description>
 
 ### PTV Proclivitive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> tends to do/be <this this>THIS</this>, has <this this>THIS</this> trend, is likely to be <this this>THIS</this>, is prone to have <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> tends to do/be <this this>THIS</this>, has <this this>THIS</this> trend, is likely to be <this this>THIS</this>, is prone to have <this this>THIS</this>.</description>
 
 ### VOL Voluntative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> volunteers to do <this this>THIS</this>, offers <this this>THIS</this> help.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> volunteers to do <this this>THIS</this>, offers <this this>THIS</this> help.</description>
 
 ### ACC Accordative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> agrees to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> agrees to do <this this>THIS</this>.</description>
 
 ### ICL Inclinative
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> is up for doing <this this>THIS</this>, has sudden desire to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is up for doing <this this>THIS</this>, has sudden desire to do <this this>THIS</this>.</description>
 
 ### CML Compulsive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> has compulsion, feels a need to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has compulsion, feels a need to do <this this>THIS</this>.</description>
 
 ### DVR Divertive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> enjoys doing <this this>THIS</this>, likes to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> enjoys doing <this this>THIS</this>, likes to do <this this>THIS</this>.</description>
 
 ### DVT Devotive
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> is devoted, committed to doing <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is devoted, committed to doing <this this>THIS</this>.</description>
 
 ### PFT Preferential
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> prefers <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> prefers <this this>THIS</this>.</description>
 
 > I would rather eat a mango.
 
 ### IPS Impressional
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> has subjective impression that <this this>THIS</this> is true.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has subjective impression that <this this>THIS</this> is true.</description>
 
 > I feel that he was lying to me.
 
 ### PMS Promissory
 
-<description><this another>ANOTHER [Activative](/cases/#act-activative)</this> promises that <this another>ANOTHER</this> would do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> promises that <this another>ANOTHER</this> would do <this this>THIS</this>.</description>
 
 > I swear I will visit your grandmother on my way home next week.
 
@@ -1023,7 +1023,7 @@ Marks that and how several members of <this context>CONTEXT</this> participate i
 
 ### IDC Indicative
 
-<description><this another>ANOTHER [Affective](/cases/#aff-affective)</this> or <this another>ANOTHER [Dative](/cases/#dat-dative)</this> gets understanding, meaning of the action of <this this>THIS</this> from <this another>ANOTHER [Inducive](/cases/#ind-inducive)</this>.</description>
+<description><this another>ANOTHER [Affective](https://ithkuil.github.io/ithkuil/cases/#aff-affective)</this> or <this another>ANOTHER [Dative](https://ithkuil.github.io/ithkuil/cases/#dat-dative)</this> gets understanding, meaning of the action of <this this>THIS</this> from <this another>ANOTHER [Inducive](https://ithkuil.github.io/ithkuil/cases/#ind-inducive)</this>.</description>
 
 > I read the text to them (and they got the subtext).
 

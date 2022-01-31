@@ -23,7 +23,7 @@ Ithkuil and related stuff is discussed in [Ithkuil chats in Discord messenger](h
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-This work (<span property="dct:title">Glekwille</span>, by <a href="https://ithkuil.lojban.pw" rel="dct:creator"><span property="dct:title">Gleki Arxokuna</span></a>), identified by <a href="https://lojban.pw" rel="dct:publisher"><span property="dct:title">Gleki Arxokuna</span></a>, is free of known copyright restrictions.
+This work (<span property="dct:title">Glekwille</span>, by <a href="https://ithkuil.github.io/ithkuil/" rel="dct:creator"><span property="dct:title">Gleki Arxokuna</span></a>), identified by <a href="https://lojban.pw" rel="dct:publisher"><span property="dct:title">Gleki Arxokuna</span></a>, is free of known copyright restrictions.
 </p>
 
 # Notions
@@ -39,9 +39,9 @@ Roughly, <this this>THIS</this> corresponds to the current word, <this context>C
 
 # Chapters
 
-* [Basic](/basic)
-* [Cases](/cases)
-* [Verbs](/verbs)
-* [Metalinguistic](/metalinguistic)
-* [Text structure](/text-structure)
-* [Suffixes](/suffixes)
+* [Basic](https://ithkuil.github.io/ithkuil/basic)
+* [Cases](https://ithkuil.github.io/ithkuil/cases)
+* [Verbs](https://ithkuil.github.io/ithkuil/verbs)
+* [Metalinguistic](https://ithkuil.github.io/ithkuil/metalinguistic)
+* [Text structure](https://ithkuil.github.io/ithkuil/text-structure)
+* [Suffixes](https://ithkuil.github.io/ithkuil/suffixes)

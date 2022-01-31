@@ -114,7 +114,7 @@
 
 ### CSL Consolidative
 
-<description>members of <this this>THIS</this> set have no design or purpose and occur non-artificially, naturally as members of <this this>THIS</this> set. Individual members of <this this>THIS</this> set would use [Consolidative](/basic/#csl-consolidative) and [Uniplex](/basic/#uni-uniplex) thus denoting no inherent purpose.</description>
+<description>members of <this this>THIS</this> set have no design or purpose and occur non-artificially, naturally as members of <this this>THIS</this> set. Individual members of <this this>THIS</this> set would use [Consolidative](https://ithkuil.github.io/ithkuil/basic/#csl-consolidative) and [Uniplex](https://ithkuil.github.io/ithkuil/basic/#uni-uniplex) thus denoting no inherent purpose.</description>
 
 > a grove
 
@@ -326,17 +326,17 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### Comparison
 
-> [IFL](/basic/#ifl-informal): revered thing, [FML](/basic/#fml-formal): idol
+> [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): revered thing, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): idol
 
-> [IFL](/basic/#ifl-informal): eat, [FML](/basic/#fml-formal): have a meal
+> [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): eat, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): have a meal
 
-> [IFL](/basic/#ifl-informal): tools, [FML](/basic/#fml-formal): equipment
+> [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): tools, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): equipment
 
-> [IFL](/basic/#ifl-informal): pit, [FML](/basic/#fml-formal): moat
+> [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): pit, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): moat
 
-> [IFL](/basic/#ifl-informal): pit where water persists, [FML](/basic/#fml-formal): water reservoir
+> [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): pit where water persists, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): water reservoir
 
-> [IFL](/basic/#ifl-informal): success, [FML](/basic/#fml-formal): prosperity
+> [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): success, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): prosperity
 
 ## Essence
 
