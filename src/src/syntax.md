@@ -1,12 +1,12 @@
-title: Syntax, Scope, Morphology
-description: Free libre opensource public domain documentation for Ithkuil philosophical language invented by John Quijada
+# Title: Syntax, Scope, Morphology
+## Description: Free, libre, open-source, public domain documentation for Ithkuil, a philosophical language invented by John Quijada
 
-# Scopal hierarchy of the Ithkuil categories
+# Scopal Hierarchy of the Ithkuil Categories
 
-_Compiled by Ilmen and published at https://pastebin.com/pUBHsDv7_
+_Compiled by Ilmen and published at [Pastebin](https://pastebin.com/pUBHsDv7)._
 
-Categories are sorted by semantic precedence.
- 
+Categories are sorted by semantic precedence:
+
 * Bias
 * Illocution
 * Sanction + Validation
@@ -37,17 +37,17 @@ Categories are sorted by semantic precedence.
 * Aspect_A1, Aspect_A2 = First and second Aspectual slots on Adjuncts;
 * Aspect_AA = Aspectual Adjunct.
 
-# Technical info: reasoning behind such understanding
+# Technical Info: Reasoning Behind Such Understanding
 
-_Contains quotations from ithkuil.net website_
- 
-category_applied_last → category_applied_first; ↝ indicates incertainty.
+_Contains quotations from [ithkuil.net](https://ithkuil.net) website._
+
+category_applied_last → category_applied_first; ↝ indicates uncertainty.
 
 ## @2.1.1.E6: /qhûl-lyai’svukšei’arpîptó’ks
 
-‘...being hard to believe, after allegedly trying to go back to repeatedly inspiring fear using rag-tag groups of suspicious-looking clowns, despite resistance’
+‘...being hard to believe, after allegedly trying to go back to repeatedly inspiring fear using ragtag groups of suspicious-looking clowns, despite resistance.’
 
-* Bias → Case ↝ Sanction → Version → Aspect_F → Phase → Configuration-Affiliation → Perspective:Unbounded → Derivation*
+* Bias → Case ↝ Sanction → Version → Aspect_F → Phase → Configuration-Affiliation → Perspective: Unbounded → Derivation*
 * Version → Configuration-Affiliation
  
 ## @5.0: hruštrul-lyö’ň ˉhničʰâçtàu’watkwöu​​​​​​
@@ -61,12 +61,12 @@ category_applied_last → category_applied_first; ↝ indicates incertainty.
 
 ‘If only the physician wouldn’t always eat his food in one gulp like that.’
 
-* Illocution → Derivation:NA1₁ → Aspect_A2 → Derivation:EXT₂ → Aspect_A1
+* Illocution → Derivation: NA1₁ → Aspect_A2 → Derivation: EXT₂ → Aspect_A1
  
 ## @5.10.E4: Lêr-rwia hwaixtasár öqeil.
 ‘I'd venture to say the man won't be able to resume working anytime soon.’
 
-* Sanction → Derivation:NA1₁ ↝ Aspect_A2 → Modality → Aspect_A1
+* Sanction → Derivation: NA1₁ ↝ Aspect_A2 → Modality → Aspect_A1
  
 ## @6.1.31.E2: Hëtiun-n ivogwařļokkai ţei.
 
@@ -97,9 +97,9 @@ category_applied_last → category_applied_first; ↝ indicates incertainty.
  
 ## @Texts.Greetings: Ükhu attál în-n uhednaláň.
 
-‘I bid you greetings  and may there be peace through fellowship between us.’
+‘I bid you greetings and may there be peace through fellowship between us.’
 
-* Derivation:COO₁ → Modality → Valence
+* Derivation: COO₁ → Modality → Valence
  
 ## @Texts.Lord: Îl-lm ¯euč’ane tehwei driocaipšé kû
 

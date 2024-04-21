@@ -4,7 +4,7 @@
 
 ### PPS Propositional
 
-<description><this this>THIS</this> is just a statement not representing anyone's opinion, <this this>THIS</this> is an objective truth.</description>
+<description>This is just a statement not representing anyone's opinion, this is an objective truth.</description>
 
 > That is a dog.
 
@@ -12,7 +12,7 @@
 
 ### EPI Epistemic
 
-<description><this this>THIS</this> is a statement representing cultural knowledge.</description>
+<description>This is a statement representing cultural knowledge.</description>
 
 > That dog is of noble ancestry.
 
@@ -20,7 +20,7 @@
 
 ### ALG Allegative
 
-<description><this this>THIS</this> is a subjective opinion or interpretation.</description>
+<description>This is a subjective opinion or interpretation.</description>
 
 > The dog is ugly.
 
@@ -28,7 +28,7 @@
 
 ### IPU Imputative
 
-<description><this this>THIS</this> is a statement that one can assume to be true unless more evidence appears.</description>
+<description>This is a statement that one can assume to be true unless more evidence appears.</description>
 
 > He takes care of his dog (because the latter looks healthy, who else can take care of the dog?)
 
@@ -36,23 +36,23 @@
 
 ### RFU Refutative
 
-<description><this this>THIS</this> statement is based on cultural knowledge and refutes an earlier statement.</description>
+<description>This statement is based on cultural knowledge and refutes an earlier statement.</description>
 
 ### REB Rebuttative
 
-<description><this this>THIS [Propositional](https://ithkuil.github.io/ithkuil/metalinguistic/#pps-propositional)</this> statement additionally refutes an earlier statement.</description>
+<description>This [Propositional](https://ithkuil.github.io/ithkuil/metalinguistic/#pps-propositional) statement additionally refutes an earlier statement.</description>
 
 ### THR Theoretical
 
-<description><this this>THIS</this> statement is a hypothesis that can be tested for validity.</description>
+<description>This statement is a hypothesis that can be tested for validity.</description>
 
 ### EXV Expatiative
 
-<description><this this>THIS</this> statement is hypothesis that might not inherently allow its validation.</description>
+<description>This statement is a hypothesis that might not inherently allow its validation.</description>
 
 ### AXM Axiomatic
 
-<description><this this>THIS [Propositional](https://ithkuil.github.io/ithkuil/metalinguistic/#pps-propositional)</this> statement can't be refuted or argued.</description>
+<description>This [Propositional](https://ithkuil.github.io/ithkuil/metalinguistic/#pps-propositional) statement can't be refuted or argued.</description>
 
 > We are on the Earth.
 
@@ -60,264 +60,88 @@
 
 ## Validation
 
-Validation, also known as “evidential marker” represents how or to what degree <this this>THIS</this> is supported by evidence.
+Validation, also known as “evidential marker,” represents how or to what degree this is supported by evidence.
 
 ### Acquired knowledge or direct observation
 
-<table>
-  <tr>
-   <th>Abbreviation
-   </th>
-   <th>Expanded name
-   </th>
-   <th>Verifiable by other speakers
-   </th>
-   <th>Example
-   </th>
-  </tr>
-  <tr>
-   <td>CNF
-   </td>
-   <td>CONFIRMATIVE
-   </td>
-   <td>yes
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>AFM
-   </td>
-   <td>AFFIRMATIVE
-   </td>
-   <td>maybe not
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>RPT
-   </td>
-   <td>REPORTIVE
-   </td>
-   <td>no
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+| Abbreviation | Expanded name | Verifiable by other speakers | Example |
+|--------------|---------------|-----------------------------|---------|
+| CNF | CONFIRMATIVE | yes |  |
+| AFM | AFFIRMATIVE | maybe not |  |
+| RPT | REPORTIVE | no |  |
 
 ### Intuition or inference
 
-<table>
-  <tr>
-   <th>Abbreviation
-   </th>
-   <th>Expanded name
-   </th>
-   <th>Type
-   </th>
-   <th>Example
-   </th>
-  </tr>
-  <tr>
-   <td>ITU
-   </td>
-   <td>INTUITIVE
-   </td>
-   <td>intuition or feeling
-   </td>
-   <td>I have a feeling that ...
-   </td>
-  </tr>
-  <tr>
-   <td>INF
-   </td>
-   <td>INFERENTIAL
-   </td>
-   <td>inference
-   </td>
-   <td>I assume ...
-   </td>
-  </tr>
-</table>
+| Abbreviation | Expanded name | Type | Example |
+|--------------|---------------|------|---------|
+| ITU | INTUITIVE | intuition or feeling | I have a feeling that ... |
+| INF | INFERENTIAL | inference | I assume ... |
 
 ### Hearsay Categories. Trustworthy source
 
-<table>
-  <tr>
-   <th>Abbreviation
-   </th>
-   <th>Expanded name
-   </th>
-   <th>The source of the hearsay
-   </th>
-   <th>Example
-   </th>
-  </tr>
-  <tr>
-   <td>PSM
-   </td>
-   <td>PRESUMPTIVE
-   </td>
-   <td>can be verified
-   </td>
-   <td>Presumably ...
-   </td>
-  </tr>
-  <tr>
-   <td>PSM2
-   </td>
-   <td>PRESUMPTIVE 2
-   </td>
-   <td>might be not verifiable
-   </td>
-   <td>Presumably ...
-   </td>
-  </tr>
-  <tr>
-   <td>PPT
-   </td>
-   <td>PURPORTIVE
-   </td>
-   <td>can't be verified
-   </td>
-   <td>Purportedly ...
-   </td>
-  </tr>
-</table>
+| Abbreviation | Expanded name | The source of the hearsay | Example |
+|--------------|---------------|--------------------------|---------|
+| PSM | PRESUMPTIVE | can be verified | Presumably ... |
+| PSM2 | PRESUMPTIVE 2 | might be not verifiable | Presumably ... |
+| PPT | PURPORTIVE | can't be verified | Purportedly ... |
 
 ### Hearsay Categories. Source may not be trustworthy
 
-<table>
-  <tr>
-   <th>Abbreviation
-   </th>
-   <th>Expanded name
-   </th>
-   <th>The source of the hearsay
-   </th>
-   <th>Example
-   </th>
-  </tr>
-  <tr>
-   <td>PPT2
-   </td>
-   <td>PURPORTIVE 2
-   </td>
-   <td>can be verified
-   </td>
-   <td>Reportedly ...
-   </td>
-  </tr>
-  <tr>
-   <td>CJT
-   </td>
-   <td>CONJECTURAL
-   </td>
-   <td>might be not verifiable
-   </td>
-   <td>Supposedly ...
-   </td>
-  </tr>
-  <tr>
-   <td>DUB
-   </td>
-   <td>DUBITATIVE
-   </td>
-   <td>can't be verified
-   </td>
-   <td>Allegedly ...
-   </td>
-  </tr>
-</table>
+| Abbreviation | Expanded name | The source of the hearsay | Example |
+|--------------|---------------|--------------------------|---------|
+| PPT2 | PURPORTIVE 2 | can be verified | Reportedly ... |
+| CJT | CONJECTURAL | might be not verifiable | Supposedly ... |
+| DUB | DUBITATIVE | can't be verified | Allegedly ... |
 
 ### Hearsay Categories. Source is not trustworthy
 
-<table>
-  <tr>
-   <th>Abbreviation
-   </th>
-   <th>Expanded name
-   </th>
-   <th>The source of the hearsay
-   </th>
-   <th>Example
-   </th>
-  </tr>
-  <tr>
-   <td>TEN
-   </td>
-   <td>TENTATIVE
-   </td>
-   <td>can be verified
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>PUT
-   </td>
-   <td>PUTATIVE
-   </td>
-   <td>might be not verifiable
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>IPB
-   </td>
-   <td>IMPROBABLE
-   </td>
-   <td>can't be verified
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+| Abbreviation | Expanded name | The source of the hearsay | Example |
+|--------------|---------------|--------------------------|---------|
+| TEN | TENTATIVE | can be verified |  |
+| PUT | PUTATIVE | might be not verifiable |  |
+| IPB | IMPROBABLE | can't be verified |  |
 
 ## Illocution
 
 ### ASR Assertive
 
-<description><this this>THIS</this> has to be believed by the listener. The listener has to accept <this speaker>SPEAKER</this>'s point of view expressed in <this this>THIS</this>. Used for explanations and descriptions.</description>
+<description>This has to be believed by the listener. The listener has to accept the speaker's point of view expressed in this. Used for explanations and descriptions.</description>
 
-<lojban><jbo>ju'a</jbo>, <jbo>ca'e</jbo></lojban>
+<lojban>ju'a, ca'e</lojban>
 
 ### DIR Directive
 
-<description><this this>THIS</this> is a mental construct of <this speaker>SPEAKER</this>. Subjunctive/optative/imperative mood. Used for promises, commands. The listener would respond to <this this>THIS</this> with obeyance, compliance, granting permission.</description>
+<description>This is a mental construct of the speaker. Subjunctive/optative/imperative mood. Used for promises, commands. The listener would respond to this with obeisance, compliance, granting permission.</description>
 
-<lojban><jbo>ko'oi, ko, e'e, ei, e'i</jbo></lojban>
-<lojban>[?] <jbo>nu'e</jbo></lojban>
+<lojban>ko'oi, ko, e'e, ei, e'i</lojban>
+<lojban>[?] nu'e</lojban>
 
 ### IRG Interrogative
 
-<description><this this>THIS</this> statement has no truth value. Instead, a reply expressing attitude is expected from listeners. <this this>THIS</this> can be translated as “yes/no/what do you think?” questions.</description>
+<description>This statement has no truth value. Instead, a reply expressing attitude is expected from listeners. This can be translated as “yes/no/what do you think?” questions.</description>
 
-<lojban><jbo>xu</jbo></lojban>
+<lojban>xu</lojban>
 
 ### ADM Admonitive
 
-<description><this this>THIS</this> is a warning.</description>
+<description>This is a warning.</description>
 
 > Be careful not to come closer to the bridge.
 
-<lojban><jbo>e'anai o'i</jbo></lojban>
+<lojban>e'anai o'i</lojban>
 
 ### HOR Hortative
 
-<description><this this>THIS</this> statement is wished to be true.</description>
+<description>This statement is wished to be true.</description>
 
 > Wish you were here.
 
-<lojban><jbo>au</jbo></lojban>
+<lojban>au</lojban>
 
 ### DEC Declarative
 
-<description><this this>THIS</this> is a declaration, an announcement.</description>
+<description>This is a declaration, an announcement.</description>
 
 > I pronounce you husband and wife
 
-<lojban><jbo>ca'e</jbo>/<jbo>sei mi te notci</jbo></lojban>
+<lojban>ca'e/sei mi te notci</lojban>
