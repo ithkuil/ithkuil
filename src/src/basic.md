@@ -96,19 +96,16 @@
 
 <description><this this>THIS</this> is a mass formed from a set of non-uniform elements mixed with each other forming a new entity.</description>
 
-> a wooden table
-
-> speech
-
-> jungle
-
-> sandwich
+- a wooden table
+- speech
+- jungle
+- sandwich
 
 ### MLT Multiform
 
 <description><this this>THIS</this> is a fuzzy set of elements.</description>
 
-> Kalmykian steppe that fuzzily changes into desert in some places
+- Kalmykian steppe that fuzzily changes into desert in some places
 
 ## Affiliation
 
@@ -116,49 +113,37 @@
 
 <description>members of <this this>THIS</this> set have no design or purpose and occur non-artificially, naturally as members of <this this>THIS</this> set. Individual members of <this this>THIS</this> set would use [Consolidative](https://ithkuil.github.io/ithkuil/basic/#csl-consolidative) and [Uniplex](https://ithkuil.github.io/ithkuil/basic/#uni-uniplex) thus denoting no inherent purpose.</description>
 
-> a grove
-
-> leaves of the plant
-
-> raindrops from the cloud
-
-> The rock has always been here even before the road was built.
-
-> I turned my head toward the tree and unexpectedly saw something there.
+- a grove
+- leaves of the plant
+- raindrops from the cloud
+- The rock has always been here even before the road was built.
+- I turned my head toward the tree and unexpectedly saw something there.
 
 ### ASO Associative
 
 <description>members of <this this>THIS</this> set share the same purpose.</description>
 
-> an orchard
-
-> identical screwdrivers
-
-> But this rock is a road sign.
-
-> I turned my head toward the noise from the tree and saw not a cat as I expected but a crow.
+- an orchard
+- identical screwdrivers
+- But this rock is a road sign.
+- I turned my head toward the noise from the tree and saw not a cat as I expected but a crow.
 
 ### VAR Variative
 
 <description>at least one member of <this this>THIS</this> has purposes different from purposes of other members of <this this>THIS</this>.</description>
 
-> People of different backgrounds appeared in the same square by chance.
-
-> a mixture of overlapping voices saying different things
-
-> My appearance had several unrelated consequences.
+- People of different backgrounds appeared in the same square by chance.
+- a mixture of overlapping voices saying different things
+- My appearance had several unrelated consequences.
 
 ### COA Coalescent
 
 <description>members of <this this>THIS</this> set have a mutual synergy relationship to each other. Duplex is usually combined with Coalescent.</description>
 
-> a complete toolset for fixing cars
-
-> a seven-course meal
-
-> my eyes
-
-> I worked out a plan of fighting the fire
+- a complete toolset for fixing cars
+- a seven-course meal
+- my eyes
+- I worked out a plan of fighting the fire
 
 ## Perspective
 
@@ -166,37 +151,37 @@
 
 <description><this this>THIS</this> is an entity as a psychologically single whole through time or space even if <this this>THIS</this> consists of elements or has inner structure or can change in time or space. For verbs <this this>THIS</this> denotes events having at least one part under consideration or in <this context>CONTEXT</this> where <this speaker>SPEAKER</this> is present.</description>
 
-> It's a lake.
+- It's a lake.
 
-> The tree grows.
+- The tree grows.
 
 ### U Unbounded
 
 <description><this this>THIS</this> is an entity where not all of its elements under consideration are in <this context>CONTEXT</this>, <this this>THIS</this> may be in several separated spatial or temporal intervals, some of which are not accessible in <this context>CONTEXT</this>.</description>
 
-> Alice here and The Rabbit there.
+- Alice here and The Rabbit there.
 
-> A stump of a tree (what used to be a tree).
+- A stump of a tree (what used to be a tree).
 
 ### N Gnomic
 
 <description><this this>THIS</this> contains all its possible members from all spatial and temporal intervals.</description>
 
-> She is a good sportsperson.
+- She is a good sportsperson.
 
-> Gravitation makes all sandwiches fall down.
+- Gravitation makes all sandwiches fall down.
 
 ### A Abstract
 
 <description><this this>THIS</this> is an abstraction of events.</description>
 
-> The crucifixion of Jesus considered as a downhill bicycle race.
+- The crucifixion of Jesus considered as a downhill bicycle race.
 
-> The idea of everything having to do with dogs.
+- The idea of everything having to do with dogs.
 
-> Experience of being a child.
+- Experience of being a child.
 
-> Dancing.
+- Dancing.
 
 ## Extension
 
@@ -216,9 +201,7 @@ ICP morning   | entrance/front   | light from source  |
 GRA dawn      | verge/brink      | brightening/shine  |
 DPL dusk      | outskirt/limit   | darkening/dim      |
 ATV evening   | exit/back/end    | light at target    |
-Depletive does not necessarily indicate the complete undoing or retrogression of an entity, just the instance where it fades out or slows down, which can occur in the middle of whatever it is/whatever it is doing, not just at the boundaries. Same goes for Graduative. Like gleki said, these are like a progressive aspect of what 'currently' or 'locally' changes. Still, they work for both Stative and Dynamic entities. I guess 'increasing' and 'decreasing' work in place of 'development' and 'regression'. Ultimately, the approaching/withdrawing metaphor is an attempt to make extension simpler to understand. PRX is a static context and entity, ICP and ATV are a changing context, and GRA and DPL are a changing entity.
-
--->
+Depletive does not necessarily indicate the complete undoing or retrogression of an entity, just the instance where it fades out or slows down, which can occur in the middle of whatever it is/whatever it is doing, not just at the boundaries. Same goes for Graduative. Like gleki said, these are like a progressive aspect of what 'currently' or 'locally' changes. Still, they work for both Stative and Dynamic entities. I guess 'increasing' and 'decreasing' work in place of 'development' and 'regression'. Ultimately, the approaching/withdrawing metaphor is an attempt to make extension simpler to understand. PRX is a static context and entity, ICP and ATV are a changing context, and GRA and DPL are a changing entity.-->
 
 ### DEL Delimitive
 
@@ -254,7 +237,7 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### GRA Graduative
 
-<description><this this>THIS</this> is a closest, beginning border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away or poorly understood.</description>
+<description><this this>THIS</this> is a closest, beginning border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away, or poorly understood.</description>
 
 > The darkness that had come in from the Mediterranean covered the city so detested by the procurator.
 
@@ -264,7 +247,7 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### DPL Depletive
 
-<description><this this>THIS</this> is a farthest, terminal, least accessible border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away or poorly understood.</description>
+<description><this this>THIS</this> is a farthest, terminal, least accessible border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away, or poorly understood.</description>
 
 > There is not much time left.
 
@@ -280,19 +263,19 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### EXS Existential
 
-<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in its simple existential objective nature. No purpose of in-context value is added.</description>
+<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in its simple existential objective nature. No purpose or in-context value is added.</description>
 
-> There were birds and monkeys sitting there (no attitude toward the scene or use of the scene is implied)
+> There were birds and monkeys sitting there (no attitude toward the scene or use of the scene is implied).
 
 ### FNC Functional
 
-<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> as viewed personally important or within social <this context>CONTEXT</this> in its purpose, value or attitude towards it.</description>
+<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> as viewed personally important or within social <this context>CONTEXT</this> in its purpose, value, or attitude towards it.</description>
 
-> And here came the cattle, the one I had taken care a lot.
+> And here came the cattle, the one I had taken care of a lot.
 
-> There were birds there, and the birds were what I had expected to see to make a photo of them and maybe catch one.
+> There were birds there, and the birds were what I had expected to see to take a photo of them and maybe catch one.
 
-> There were birds sitting there, and since they were sitting then there would be no danger to me to be there either.
+> There were birds sitting there, and since they were sitting, there would be no danger to me to be there either.
 
 ### RPS Representational
 
@@ -302,17 +285,17 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 > The Kremlin is curious about the situation in Kalmykia.
 
-> They still sleep together (i.e. they still love or have intercourse).
+> They still sleep together (i.e., they still love or have intercourse).
 
 ### AMG Amalgamative
 
-<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in totality of the history, historical attitude and use of <this this>THIS</this> concept.</description>
+<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in the totality of the history, historical attitude, and use of <this this>THIS</this> concept.</description>
 
 > There were apes over there (so apes could live there, that place was suitable for the nature of apes).
 
-> The blue sky is the place into which my cage bird flew away (and the blue expanse of the sky is the haven of birds etc.)
+> The blue sky is the place into which my caged bird flew away (and the blue expanse of the sky is the haven of birds, etc.).
 
-> I like theater (which all started in Ancient Greece and is so much revered all across the globe etc.)
+> I like theater (which all started in Ancient Greece and is so much revered all across the globe, etc.).
 
 ## Designation
 
@@ -342,7 +325,7 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 <description>Essence creates mental scopes or labels.</description>
 
-> 1. The rabbit that ran away from Alice didn't run away from Alice
+> 1. The rabbit that ran away from Alice didn't run away from Alice.
 
 > 2. In fact, the Rabbit had his own business and was just in a hurry passing by.
 

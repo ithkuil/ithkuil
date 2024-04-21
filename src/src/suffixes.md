@@ -13,6 +13,7 @@ Each suffix has 9 possible subdivisions called "degrees".
 <th>topic</th>
 <th>full clause ends here</th>
 <th>head of relative clause</th>
+</tr>
 <tr>
 <th></th>
 <td>1</td>
@@ -42,8 +43,7 @@ Each suffix has 9 possible subdivisions called "degrees".
 <th>&nbsp;</th>
 <th>focus</th>
 <th>topic</th>
-<th>full clause ends here
-</th>
+<th>full clause ends here</th>
 <th>head of relative clause</th>
 </tr>
 <tr>

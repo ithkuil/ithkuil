@@ -1,35 +1,35 @@
-title: Syntax, Scope, Morphology
-description: Free libre opensource public domain documentation for Ithkuil philosophical language invented by John Quijada
+# Syntax, Scope, Morphology
+Description: Free, libre, open-source, public domain documentation for the Ithkuil philosophical language invented by John Quijada.
 
 # Scopal hierarchy of the Ithkuil categories
 
-_Compiled by Ilmen and published at https://pastebin.com/pUBHsDv7_
+_Compiled by Ilmen and published at [https://pastebin.com/pUBHsDv7](https://pastebin.com/pUBHsDv7)_
 
 Categories are sorted by semantic precedence.
- 
-* Bias
-* Illocution
-* Sanction + Validation
-* Mood
-* Case + Register
-* Relation
-* Context
-* Derivation: NA1, COO
-* Aspect_A2
-* Modality
-* Derivation: others (some VxC suffixes might have exceptional precedence rules)
-* Essence
-* Perspective (except Unbounded, which is under the scope of Configuration/Affiliation)
-* Valence
-* Version
-* Derivation??
-* Aspect_A1 / Aspect_F / Aspect_AA
-* Derivation??
-* Phase
-* Extension
-* Configuration + Affiliation
-* Function
-* Root + Stem + Pattern + Designation + SSD
+
+- Bias
+- Illocution
+- Sanction + Validation
+- Mood
+- Case + Register
+- Relation
+- Context
+- Derivation: NA1, COO
+- Aspect_A2
+- Modality
+- Derivation: others (some VxC suffixes might have exceptional precedence rules)
+- Essence
+- Perspective (except Unbounded, which is under the scope of Configuration/Affiliation)
+- Valence
+- Version
+- Derivation??
+- Aspect_A1 / Aspect_F / Aspect_AA
+- Derivation??
+- Phase
+- Extension
+- Configuration + Affiliation
+- Function
+- Root + Stem + Pattern + Designation + SSD
 
 ## Legend 
 
