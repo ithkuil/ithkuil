@@ -1,27 +1,113 @@
-# Various Suffixes
+# Various suffixes
 
-Each suffix has nine possible subdivisions called "degrees".
+Each suffix has 9 possible subdivisions called "degrees".
 
-## TPF Syntactic Elements + Topic/Focus
+## TPF Syntactic elements + topic/focus
 
-### Topic Representation
+### Topic representation
 
-|                     | topic | full clause ends here | head of relative clause |
-|---------------------|-------|-----------------------|-------------------------|
-|                     |   1   |           2           |            3            |
-| + head of relative clause |   4   |           5           |            -            |
-| + full clause ends here   |   6   |           -           |            -            |
+<table>
+<tbody>
+<tr>
+<th></th>
+<th>topic</th>
+<th>full clause ends here</th>
+<th>head of relative clause</th>
+<tr>
+<th></th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<th>+ head of relative clause</th>
+<td>4</td>
+<td>5</td>
+<td>-</td>
+</tr>
+<tr>
+<th>+ full clause ends here</th>
+<td>6</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
 
-### Alternative Representation with Focus
+### Alternative representation with focus
 
-|     | focus | topic | full clause ends here | head of relative clause |
-|-----|-------|-------|-----------------------|-------------------------|
-|  1  |   -   |  yes  |           -           |            -            |
-|  2  |   -   |   -   |          yes          |            -            |
-|  3  |   -   |   -   |           -           |           yes           |
-|  4  |   -   |  yes  |           -           |           yes           |
-|  5  |   -   |   -   |          yes          |           yes           |
-|  6  |   -   |  yes  |          yes          |            -            |
-|  7  |  yes  |   -   |          yes          |           yes           |
-|  8  |  yes  |   -   |           -           |            -            |
-|  9  |  yes  |   -   |          yes          |            -            |
+<table>
+<tbody>
+<tr>
+<th>&nbsp;</th>
+<th>focus</th>
+<th>topic</th>
+<th>full clause ends here
+</th>
+<th>head of relative clause</th>
+</tr>
+<tr>
+<td>1</td>
+<td>-</td>
+<td>yes</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>2</td>
+<td>-</td>
+<td>-</td>
+<td>yes</td>
+<td>-</td>
+</tr>
+<tr>
+<td>3</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>4</td>
+<td>-</td>
+<td>yes</td>
+<td>-</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>5</td>
+<td>-</td>
+<td>-</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>6</td>
+<td>-</td>
+<td>yes</td>
+<td>yes</td>
+<td>-</td>
+</tr>
+<tr>
+<td>7</td>
+<td>yes</td>
+<td>-</td>
+<td>yes</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>8</td>
+<td>yes</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>9</td>
+<td>yes</td>
+<td>-</td>
+<td>yes</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
