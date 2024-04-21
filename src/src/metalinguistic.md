@@ -48,7 +48,7 @@
 
 ### EXV Expatiative
 
-<description><this this>THIS</this> statement is hypothesis that might not inherently allow its validation.</description>
+<description><this this>THIS</this> statement is a hypothesis that might not inherently allow its validation.</description>
 
 ### AXM Axiomatic
 
@@ -60,7 +60,7 @@
 
 ## Validation
 
-Validation, also known as “evidential marker” represents how or to what degree <this this>THIS</this> is supported by evidence.
+Validation, also known as “evidential marker,” represents how or to what degree <this this>THIS</this> is supported by evidence.
 
 ### Acquired knowledge or direct observation
 
@@ -107,13 +107,13 @@ Validation, also known as “evidential marker” represents how or to what degr
   </tr>
 </table>
 
-### Intuition or inference
+### Intuition or Inference
 
 <table>
   <tr>
    <th>Abbreviation
    </th>
-   <th>Expanded name
+   <th>Expanded Name
    </th>
    <th>Type
    </th>
@@ -125,7 +125,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>INTUITIVE
    </td>
-   <td>intuition or feeling
+   <td>Intuition or Feeling
    </td>
    <td>I have a feeling that ...
    </td>
@@ -135,22 +135,22 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>INFERENTIAL
    </td>
-   <td>inference
+   <td>Inference
    </td>
    <td>I assume ...
    </td>
   </tr>
 </table>
 
-### Hearsay Categories. Trustworthy source
+### Hearsay Categories. Trustworthy Source
 
 <table>
   <tr>
    <th>Abbreviation
    </th>
-   <th>Expanded name
+   <th>Expanded Name
    </th>
-   <th>The source of the hearsay
+   <th>The Source of the Hearsay
    </th>
    <th>Example
    </th>
@@ -160,7 +160,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>PRESUMPTIVE
    </td>
-   <td>can be verified
+   <td>Can be Verified
    </td>
    <td>Presumably ...
    </td>
@@ -170,7 +170,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>PRESUMPTIVE 2
    </td>
-   <td>might be not verifiable
+   <td>Might not be Verifiable
    </td>
    <td>Presumably ...
    </td>
@@ -180,22 +180,22 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>PURPORTIVE
    </td>
-   <td>can't be verified
+   <td>Can't be Verified
    </td>
    <td>Purportedly ...
    </td>
   </tr>
 </table>
 
-### Hearsay Categories. Source may not be trustworthy
+### Hearsay Categories. Source May Not Be Trustworthy
 
 <table>
   <tr>
    <th>Abbreviation
    </th>
-   <th>Expanded name
+   <th>Expanded Name
    </th>
-   <th>The source of the hearsay
+   <th>The Source of the Hearsay
    </th>
    <th>Example
    </th>
@@ -205,7 +205,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>PURPORTIVE 2
    </td>
-   <td>can be verified
+   <td>Can be Verified
    </td>
    <td>Reportedly ...
    </td>
@@ -215,7 +215,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>CONJECTURAL
    </td>
-   <td>might be not verifiable
+   <td>Might not be Verifiable
    </td>
    <td>Supposedly ...
    </td>
@@ -225,22 +225,22 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>DUBITATIVE
    </td>
-   <td>can't be verified
+   <td>Can't be Verified
    </td>
    <td>Allegedly ...
    </td>
   </tr>
 </table>
 
-### Hearsay Categories. Source is not trustworthy
+### Hearsay Categories. Source Is Not Trustworthy
 
 <table>
   <tr>
    <th>Abbreviation
    </th>
-   <th>Expanded name
+   <th>Expanded Name
    </th>
-   <th>The source of the hearsay
+   <th>The Source of the Hearsay
    </th>
    <th>Example
    </th>
@@ -250,7 +250,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>TENTATIVE
    </td>
-   <td>can be verified
+   <td>Can be Verified
    </td>
    <td>
    </td>
@@ -260,7 +260,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>PUTATIVE
    </td>
-   <td>might be not verifiable
+   <td>Might not be Verifiable
    </td>
    <td>
    </td>
@@ -270,7 +270,7 @@ Validation, also known as “evidential marker” represents how or to what degr
    </td>
    <td>IMPROBABLE
    </td>
-   <td>can't be verified
+   <td>Can't be Verified
    </td>
    <td>
    </td>
@@ -281,26 +281,26 @@ Validation, also known as “evidential marker” represents how or to what degr
 
 ### ASR Assertive
 
-<description><this this>THIS</this> has to be believed by the listener. The listener has to accept <this speaker>SPEAKER</this>'s point of view expressed in <this this>THIS</this>. Used for explanations and descriptions.</description>
+<description>The listener must believe <this>this</this>. The listener has to accept the speaker's point of view expressed in <this>this</this>. Used for explanations and descriptions.</description>
 
 <lojban><jbo>ju'a</jbo>, <jbo>ca'e</jbo></lojban>
 
 ### DIR Directive
 
-<description><this this>THIS</this> is a mental construct of <this speaker>SPEAKER</this>. Subjunctive/optative/imperative mood. Used for promises, commands. The listener would respond to <this this>THIS</this> with obeyance, compliance, granting permission.</description>
+<description>This is a mental construct of the speaker. Subjunctive/optative/imperative mood. Used for promises, commands. The listener would respond to this with obedience, compliance, granting permission.</description>
 
 <lojban><jbo>ko'oi, ko, e'e, ei, e'i</jbo></lojban>
 <lojban>[?] <jbo>nu'e</jbo></lojban>
 
 ### IRG Interrogative
 
-<description><this this>THIS</this> statement has no truth value. Instead, a reply expressing attitude is expected from listeners. <this this>THIS</this> can be translated as “yes/no/what do you think?” questions.</description>
+<description>This statement has no truth value. Instead, a reply expressing attitude is expected from listeners. This can be translated as “yes/no/what do you think?” questions.</description>
 
 <lojban><jbo>xu</jbo></lojban>
 
 ### ADM Admonitive
 
-<description><this this>THIS</this> is a warning.</description>
+<description>This is a warning.</description>
 
 > Be careful not to come closer to the bridge.
 
@@ -308,7 +308,7 @@ Validation, also known as “evidential marker” represents how or to what degr
 
 ### HOR Hortative
 
-<description><this this>THIS</this> statement is wished to be true.</description>
+<description>This statement is wished to be true.</description>
 
 > Wish you were here.
 
@@ -316,7 +316,7 @@ Validation, also known as “evidential marker” represents how or to what degr
 
 ### DEC Declarative
 
-<description><this this>THIS</this> is a declaration, an announcement.</description>
+<description>This is a declaration, an announcement.</description>
 
 > I pronounce you husband and wife
 

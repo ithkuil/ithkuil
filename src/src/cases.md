@@ -4,7 +4,7 @@
 
 ## Transrelative cases
 
-<description>Almost the half of languages of the world have [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)-[Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) structure. Another half has nominative-accusative structure. So two duads. It's interesting that [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) are not two parts of a duad in Ithkuil but instead just two cases among many others.</description>
+<description>Almost half of the world's languages have [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)-[Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) structure. The other half has a nominative-accusative structure. So two duads. It's interesting that [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive) are not two parts of a duad in Ithkuil but instead just two cases among many others.</description>
 
 ### OBL Oblique
 
@@ -18,9 +18,9 @@
 
 ### ERG Ergative
 
-<description><this this>THIS</this> plays the role of agent.</description>
+<description><this this>THIS</this> plays the role of the agent.</description>
 
-<description><this this>THIS</this> agent while having some will starts an act of <this context>CONTEXT</this> resulting in some change of properties in <this another>ANOTHER [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive)</this>.</description>
+<description><this this>THIS</this> agent, while having some will, starts an act of <this context>CONTEXT</this> resulting in some change of properties in <this another>ANOTHER [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive)</this>.</description>
 
 > The dog bit the man.
 
@@ -36,7 +36,7 @@
 
 ### ABS Absolutive
 
-<description><this this>THIS</this> plays the role of patient. [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) might not be present in <this context>CONTEXT</this>.</description>
+<description><this this>THIS</this> plays the role of the patient. The [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) might not be present in <this context>CONTEXT</this>.</description>
 
 > A coin fell from above.
 
@@ -50,7 +50,7 @@
 
 <lojban><jbo>ERG gasnu le su'u co'e ABS</jbo></lojban>
 
-<lojban>Interestingly <jbo>le rinka</jbo> is an abstraction. Whereas <jbo>le gasnu</jbo> is an object. If sumti-raising were always allowed in Lojban then we would have <jbo>rinka fi zi'o == gasnu</jbo></lojban>
+<lojban>Interestingly, <jbo>le rinka</jbo> is an abstraction, whereas <jbo>le gasnu</jbo> is an object. If sumti-raising were always allowed in Lojban, then we would have <jbo>rinka fi zi'o == gasnu</jbo></lojban>
 
 ### Combination of [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive)
 
@@ -58,11 +58,11 @@
 
 > 2. The car went fast.
 
-<description>The two sentences show different focus. In Ithkuil dropping [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)-labeled formative changes the meaning from 1. to 2.</description>
+<description>The two sentences show different focus. In Ithkuil, dropping the [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)-labeled formative changes the meaning from 1. to 2.</description>
 
-<lojban>omit <jbo>gasnu</jbo> or derived verbs</lojban>
+<lojban>Omit <jbo>gasnu</jbo> or derived verbs</lojban>
 
-<lojban>use <jbo>zi'o</jbo></lojban>
+<lojban>Use <jbo>zi'o</jbo></lojban>
 
 ### ACT Activative
 
@@ -78,45 +78,45 @@
 
 > I ask you to stay.
 
-<lojban>by default many places have implicit <jbo>da'i</jbo>/<jbo>ju'anai</jbo>. nitcu, sarcu, djica, bilga, kanpe, pacna, cpedu, minde, troci, djusku</lojban>
+<lojban>By default, many places have implicit <jbo>da'i</jbo>/<jbo>ju'anai</jbo>. nitcu, sarcu, djica, bilga, kanpe, pacna, cpedu, minde, troci, djusku</lojban>
 
 ### EFF Effectuative
 
 <description><this this>THIS</this> creates a chain of events.</description>
 
-<lojban><jbo>EFF jai rinka ko'e</jbo> == <jbo>tu'a EFF rinka ko'e</jbo> i.e. EFF is an argument of <jbo>co'e</jbo> predicate that effects (rinka)-event of <jbo>ko'e</jbo>.</lojban>
+<lojban><jbo>EFF jai rinka ko'e</jbo> == <jbo>tu'a EFF rinka ko'e</jbo> i.e. EFF is an argument of the <jbo>co'e</jbo> predicate that effects (rinka)-event of <jbo>ko'e</jbo>.</lojban>
 
-<lojban><jbo>le curmi</jbo>, the role of enabler.</lojban>
+- **le curmi**, the role of enabler.
 
 ### DER Derivative
 
-<description><this this>THIS</this> is a force or natural events (e.g. tsunami, breeze).</description>
+<description>**THIS** is a force or natural event (e.g. tsunami, breeze).</description>
 
-<description>marks events that cause something relevant.</description>
+<description>Marks events that cause something relevant.</description>
 
-<lojban><jbo>rinka</jbo>, <jbo>bapli</jbo>, <jbo>zunti</jbo></lojban>
+- **rinka**, **bapli**, **zunti**
 
-<lojban>notice <jbo>spuda</jbo>/<jbo>frati</jbo> for another argument of the same clause</lojban>
+- Notice **spuda**/**frati** for another argument of the same clause
 
 ### SIT Situative
 
-<description><this this>THIS</this> forms a shadow context for <this another>ANOTHER</this> clause. It doesn't imply any agency/patiency relationships with the event of the clause.</description>
+<description>**THIS** forms a shadow context for **ANOTHER** clause. It doesn't imply any agency/patiency relationships with the event of the clause.</description>
 
-> Due to cold weather we won't go to school today.
+> Due to cold weather, we won't go to school today.
 
-> In the presence of criminal elements we can't expect any desire for higher education.
+> In the presence of criminal elements, we can't expect any desire for higher education.
 
-> With the help of this app we will get there soon.
+> With the help of this app, we will get there soon.
 
-<lojban>raising, indirect causation, <jbo>ki'u</jbo>.</lojban>
+- raising, indirect causation, **ki'u**.
 
-<lojban>[?] <jbo>ni'i</jbo></lojban>
+- [?] **ni'i**
 
-<lojban><jbo>va'o</jbo></lojban>
+- **va'o**
 
 ### AFF Affective
 
-<description><this this>THIS</this> plays the role of experiencer in <this context>CONTEXT</this>, <this this>THIS</this> is in a state not requiring will. If <this this>THIS</this> induced the state then [Inducive](https://ithkuil.github.io/ithkuil/cases/#ind-inducive) is to be used instead.
+<description>**THIS** plays the role of experiencer in **CONTEXT**, **THIS** is in a state not requiring will. If **THIS** induced the state, then [Inducive](https://ithkuil.github.io/ithkuil/cases/#ind-inducive) is to be used instead.
 
 > I'm in pain.
 
@@ -128,22 +128,22 @@
 
 ### IND Inducive
 
-<description><this this>THIS</this> is both [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive).</description>
+<description>**THIS** is both [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative) and [Absolutive](https://ithkuil.github.io/ithkuil/cases/#abs-absolutive).</description>
 
 > The dog started jumping.
 
 > She went out.
 
-<lojban>rephrased using <jbo>vo'a</jbo>, <jbo>ri</jbo>, <jbo>le nei</jbo>, <jbo>le no'a</jbo></lojban>
+- rephrased using **vo'a**, **ri**, **le nei**, **le no'a**
 
-<lojban><jbo>fa ko'a fe ko'a jai se gasnu fai le ka broda</jbo></lojban>
+- **fa ko'a fe ko'a jai se gasnu fai le ka broda**
 
-<lojban>[?] <jbo>jalge</jbo></lojban>
+- [?] **jalge**
 
 ### DAT Dative
 
-<description><this this>THIS</this> is a recipient in the <this context>CONTEXT</this> of change of possession.</description>
-<description><this this>THIS</this> is a listener in the <this context>CONTEXT</this> of saying words.</description>
+<description>**THIS** is a recipient in the **CONTEXT** of change of possession.</description>
+<description>**THIS** is a listener in the **CONTEXT** of saying words.
 
 > She rents a room.
 
@@ -171,7 +171,7 @@
 
 ### POS Possessive
 
-<description><this this>THIS</this> alienably possesses <this another>ANOTHER</this>. No inherent relation is implied, the two arguments describe two objects that can e.g. be physically separated without them losing any their defining properties except for the possession/being possessed marked with the [Possesive](https://ithkuil.github.io/ithkuil/cases/#pos-possessive) in question.</description>
+<description><this this>THIS</this> alienably possesses <this another>ANOTHER</this>. No inherent relation is implied, the two arguments describe two objects that can e.g. be physically separated without them losing any their defining properties except for the possession/being possessed marked with the [Possessive](https://ithkuil.github.io/ithkuil/cases/#pos-possessive) in question.</description>
 
 > Where is my chair?
 
@@ -279,19 +279,13 @@
 
 > They are made of meat.
 
-> It's a golden statue.
-
-> It's a pile of bullshit.
-
-> Give me the wooden hammer, please.
-
-> It's a crowd of youngsters.
-
-> I hate plastic bags.
-
-> I like to cook with olive oil.
-
-> I had to drink 2 bottles of water to satisfy my thirst.
+- It's a golden statue.
+- It's a pile of bullshit.
+- Give me the wooden hammer, please.
+- It's a crowd of youngsters.
+- I hate plastic bags.
+- I like to cook with olive oil.
+- I had to drink 2 bottles of water to satisfy my thirst.
 
 <lojban><jbo>finti fo CPS</jbo>, <jbo>CPS marji ko'a</jbo>, <jbo>zbasu fi CPS</jbo>, <jbo>CPS livla</jbo>, <jbo>CPS se xaksu</jbo>, <jbo>pilno</jbo></lojban>
 
@@ -299,31 +293,26 @@
 
 <description>marks <this this>THIS</this> as a basis or requirement for <this another>ANOTHER</this>. Compare: unlike [Derivative](https://ithkuil.github.io/ithkuil/cases/#der-derivative), [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental) doesn't imply causation (e.g. attitude may be caused by events but it doesn't depend on events, and hence [Predicative](https://ithkuil.github.io/ithkuil/cases/#prd-predicative) is not applicable).</description>
 
-> Behaviour based on common sense
-
-> Research supported by donations
-
-> Sales relying on foreign customers
+- Behaviour based on common sense
+- Research supported by donations
+- Sales relying on foreign customers
 
 <lojban><jbo>lacri/se jicmu/se sarji PRD</jbo></lojban>
 
 ### DEP Dependent
 
-<description><this context>CONTEXT</this> happens depending on <this this>THIS</this>, which is not known in <this context>CONTEXT</this>.</description>
+<description><this context>CONTEXT</this> happens depending on <this this>THIS</this>, which is not known in <this context>CONTEXT</description>
 
-> Depending on her mood we may go on vacation.
+- Depending on her mood we may go on vacation.
 
 ### MED Mediative
 
 <description><this this>THIS</this> is a medium through which <this another>ANOTHER</this> is realized. Compare: [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental) marks instrumental means to complete an action, not media.</description>
 
-> I heard some news on TV.
-
-> I came here by train.
-
-> You may send it via websocket protocol.
-
-> Bees show location by dancing.
+- I heard some news on TV.
+- I came here by train.
+- You may send it via websocket protocol.
+- Bees show location by dancing.
 
 <lojban><jbo>MED xe benji gi'a xe cukta gi'a te fukpi gi'a ve cusku</jbo> Should there be one word for that? I'm not sure. Those are different media.</lojban>
 
@@ -331,13 +320,13 @@
 
 <description><this this>THIS</this> is the temporary in-context purpose for which <this another>ANOTHER</this> is to be employed.</description>
 
-> Let this be a box for pencils and pens.
+- Let this be a box for pencils and pens.
 
-> Let's use that room for the guests that will come tomorrow.
+> Let's use that room for the guests who will come tomorrow.
 
-> Use the iron to stop the fire.
+> Use the iron to extinguish the fire.
 
-> Those are catapult rocks.
+> Those are rocks for a catapult.
 
 <lojban><jbo>pilno APL</jbo>, <jbo>sepi'o APL</jbo></lojban>
 
@@ -345,7 +334,7 @@
 
 <description><this this>THIS</this> is what <this another>ANOTHER</this> (e.g. <this another>ANOTHER [Ergative](https://ithkuil.github.io/ithkuil/cases/#erg-ergative)</this>) receives in exchange for their actions.</description>
 
-> He let us in in exchange for a few local coins.
+> He let us in exchange for a few local coins.
 
 ### COM Comitative
 
@@ -355,7 +344,7 @@
 
 ### UTL Utilitative
 
-<description><this this>THIS</this> is being used in the event of action of <this another>ANOTHER</this> in <this context>CONTEXT</this> but is not used to perform the action of <this context>CONTEXT</this> itself (unlike [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental)).</description>
+<description><this this>THIS</this> is being used in the event of the action of <this another>ANOTHER</this> in <this context>CONTEXT</this> but is not used to perform the action of <this context>CONTEXT</this> itself (unlike [Instrumental](https://ithkuil.github.io/ithkuil/cases/#ins-instrumental)).</description>
 
 > A man with a cow showed up at the exhibition.
 
@@ -375,12 +364,12 @@
 
 ### CVS Conversive
 
-<description>in a imagined <this context>CONTEXT</this> <this this>THIS</this> is what won't happen in the end.</description>
-<description>in a imagined <this context>CONTEXT</this> <this this>THIS</this> is what prevents the expected result to happen.</description>
+<description>in an imagined <this context>CONTEXT</this>, <this this>THIS</this> is what won't happen in the end.</description>
+<description>in an imagined <this context>CONTEXT</this>, <this this>THIS</this> is what prevents the expected result from happening.</description>
 
-> If we don't find a gas station soon we will stop.
+> If we don't find a gas station soon, we will stop.
 
-> It could have been a great party if the police hadn't showed up.
+> It could have been a great party if the police hadn't shown up.
 
 ### COR Correlative
 
@@ -390,7 +379,7 @@
 
 > It is right next to me.
 
-> Ecological ([Correlative](https://ithkuil.github.io/ithkuil/cases/#cor-correlative)) situation is deteriorating.
+> The ecological [Correlative](https://ithkuil.github.io/ithkuil/cases/#cor-correlative) situation is deteriorating.
 
 ### CNV Conductive
 
@@ -419,7 +408,7 @@
 
 <description><this this>THIS</this> is the context under which <this another>ANOTHER</this> occurs.</description>
 
-> According to law he can't leave the city.
+> According to law, he can't leave the city.
 
 > In my view, he is just a fool.
 
@@ -443,7 +432,7 @@
 
 ### ASI Assimilative
 
-<description><this this>THIS</this> is a metaphorical counterpart of <this another>ANOTHER</this> in <this context>CONTEXT</this>, <this this>THIS</this> looks like <this another>ANOTHER</this>.</description>
+<description><this this>THIS</this> is a metaphorical counterpart of <this another>ANOTHER</this> in <this context>CONTEXT</this>; <this this>THIS</this> looks like <this another>ANOTHER</this>.</description>
 
 > She walks like a diva.
 
@@ -461,19 +450,19 @@
 
 > You are so stubborn when it comes to exams.
 
-<lojban>just a simple <jbo>fi'o</jbo> for those examples would do or wrapping a clause into a place of <this this>THIS</this>. Also <jbo>tai, tasmi, noi'a, soi'a, poi'a</jbo></lojban>
+<lojban>Just a simple <jbo>fi'o</jbo> for those examples would do or wrapping a clause into a place of <this this>THIS</this>. Also <jbo>tai, tasmi, noi'a, soi'a, poi'a</jbo></lojban>
 
 ### TFM Transformative
 
 <description><this this>THIS</this> is the last stage of a process.</description>
 
-> I ate the meal up.
+> I finished the meal.
 
-> Finally, we are here.
+> Finally, we have arrived.
 
-> She turned her into a sleeping beauty.
+> She transformed her into a sleeping beauty.
 
-> He drove to his death.
+> He drove until his death.
 
 <lojban>mo'u, co'a, binxo</lojban>
 
@@ -481,46 +470,46 @@
 
 <description><this this>THIS</this> is the referent of <this another>ANOTHER</this>.</description>
 
-> As for me, I will stay here.
+> As for me, I will remain here.
 
-> Let's talk about language copyright.
+> Let's discuss language copyright.
 
-> What is your attitude towards plagiarism?
+> What is your stance on plagiarism?
 
-> It's a story of love and hatred.
+> It's a tale of love and hate.
 
-> In regard to fair use I think everyone has a right to use art for personal needs.
+> Regarding fair use, I believe everyone has the right to use art for personal purposes.
 
 <lojban><jbo>sera'a REF</jbo></lojban>
 
 ### CLA Classificative
 
-<description><this this>THIS</this> is a basis for ordering or grouping elements. For items acting sequentially use Coordinative Suffixes instead.</description>
+<description><this this>THIS</this> is a basis for ordering or grouping elements. For items acting sequentially, use Coordinative Suffixes instead.</description>
 
-> Please, put them 10 items in a row.
+> Please arrange them in a row of 10 items.
 
-> I grouped the results of a query by user ID.
+> I categorized the query results by user ID.
 
-> I ordered the results of a query by user ID but in reverse order.
+> I sorted the query results by user ID but in reverse order.
 
-> There were several pair of shoes lying down there.
+> There were several pairs of shoes lying there.
 
-> He put them down horizontally.
+> He placed them horizontally.
 
-> Day by day the number of birds coming here is increasing.
+> The number of birds coming here is increasing day by day.
 
 <lojban>[?] <jbo>fi'o se porsi, te ganzu, se cnici</jbo>, <jbo>mi ganzu fi'o se porsi CLA</jbo>, <jbo>tela'u</jbo></lojban>
 <lojban><jbo>mi kancu fo li mu</jbo></lojban>
 
 ### IDP Interdependent
 
-<description><this this>THIS</this> has an interdependent relationship with <this another>ANOTHER</this>. <this this>THIS</this> and <this another>ANOTHER</this> are both required for the relationship to exist. [Partitive](https://ithkuil.github.io/ithkuil/cases/#par-partitive) is not implied.</description>
+<description><this this>THIS</this> has an interdependent relationship with <this another>ANOTHER</this>. Both <this this>THIS</this> and <this another>ANOTHER</this> are necessary for the relationship to exist. [Partitive](https://ithkuil.github.io/ithkuil/cases/#par-partitive) is not implied.</description>
 
 > She is my teacher.
 
-> Taxi driver.
+> A taxi driver.
 
-> Robin is the head of our team.
+> Robin is the leader of our team.
 
 <lojban>general logic of predicates. “my teacher” is <jbo>ctuca fe mi</jbo></lojban>
 
@@ -530,13 +519,13 @@
 
 > The food is for the dog.
 
-> We organized a birthday party for him.
+> We threw a birthday party for him.
 
-> This medicine will be good for your health.
+> This medicine will be beneficial for your health.
 
-> In respect to your experience I will act as you suggested.
+> In respect to your experience, I will act as you suggested.
 
-> Due to our tradition you will have to keep silence here.
+> Due to our tradition, you will have to keep silence here.
 
 <lojban><jbo>seva'u, se xamgu</jbo>, <jbo>fi'o se sinma</jbo>, <jbo>ki'u</jbo></lojban>
 
@@ -544,7 +533,7 @@
 
 <description><this this>THIS</this> substitutes <this another>ANOTHER</this>.</description>
 
-> He paid the dinner instead of me.
+> He paid for dinner instead of me.
 
 > She drove the car so that he could have some rest.
 
@@ -558,15 +547,15 @@
 
 ### PTL Postulative
 
-<description>If <this this>THIS</this> happens then <this context>CONTEXT</this> happens too. <this this>THIS</this> is sufficient for <this context>CONTEXT</this> to happen.</description>
+<description>If <this this>THIS</this> happens, then <this context>CONTEXT</this> happens too. <this this>THIS</this> is sufficient for <this context>CONTEXT</this> to happen.</description>
 
-> If it's sunny I will go out.
+> If it's sunny, I will go out.
 
 ### CRS Contrastive
 
 <description><this this>THIS</this> is replaced with <this another>ANOTHER</this> for <this context>CONTEXT</this>.</description>
 
-> Instead of a hurricane we got a sunny day.
+> Instead of a hurricane, we got a sunny day.
 
 > I like apples more than bananas.
 
@@ -574,7 +563,7 @@
 
 > She works as a principal rather than a teacher.
 
-<lojban><jbo>seba'i</jbo> applied to entities, properties and events, <jbo>zmadu</jbo>, <jbo>ku'i</jbo></lojban>
+<lojban><jbo>seba'i</jbo> applied to entities, properties, and events, <jbo>zmadu</jbo>, <jbo>ku'i</jbo></lojban>
 
 ### CMP Comparative
 
@@ -582,15 +571,15 @@
 
 > I like music while she prefers art.
 
-> As for the cafe it is in a neighboring building (no in this one).
+> As for the cafe, it is in a neighboring building (not in this one).
 
 ### CON Concessive
 
 <description><this context>CONTEXT</this> happens despite <this this>THIS</this>.</description>
 
-> Although he seems rude I will help him.
+> Although he seems rude, I will help him.
 
-> Despite have been living in this country for 3 years I still can't understand local slang.
+> Despite having lived in this country for 3 years, I still can't understand local slang.
 
 ### EXC Exceptive
 
@@ -634,13 +623,13 @@
 
 <description><this context>CONTEXT</this> happens during <this this>THIS [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual)</this> event.</description>
 
-> When you mother comes home call me.
+> When your mother comes home, call me.
 
 ### DFF Diffusive
 
 <description><this this>THIS</this> happens around the time of <this context>CONTEXT</this>.</description>
 
-> At that time learning languages wasn't popular.
+> At that time, learning languages wasn't popular.
 
 Your dog has grown much bigger over the last few months.
 
@@ -650,7 +639,7 @@ Your dog has grown much bigger over the last few months.
 
 > I finished the course in 2 weeks.
 
-> I haven't been doing great the last couple of exams.
+> I haven't been doing great on the last couple of exams.
 
 ### PRO Prolapsive
 
@@ -674,7 +663,7 @@ Your dog has grown much bigger over the last few months.
 
 > He came and then she laughed.
 
-> We'll have a dinner after the concert.
+> We'll have dinner after the concert.
 
 ### ELP Elapsive
 
@@ -688,15 +677,15 @@ Your dog has grown much bigger over the last few months.
 
 > He will be here in three weeks.
 
-> Two minutes later there was nobody in the room.
+> Two minutes later, there was nobody in the room.
 
 ### INP Interpolative
 
-<description><this context>CONTEXT</this> is repeated having <this this>THIS</this> duration in each occurrence.</description>
+<description><this context>CONTEXT</this> is repeated, having <this this>THIS</this> duration in each occurrence.</description>
 
-> The cuckoo made several repetitive sounds each 3 seconds long.
+> The cuckoo made several repetitive sounds, each 3 seconds long.
 
-> The explosions were separated by periods of silence each taking a minute or so.
+> The explosions were separated by periods of silence, each taking a minute or so.
 
 ### EPS Episodic
 
@@ -710,7 +699,7 @@ Your dog has grown much bigger over the last few months.
 
 <description><this context>CONTEXT</this> is limited in time by <this this>THIS</this>.</description>
 
-> By the time I get there you will be sleeping.
+> By the time I get there, you will be sleeping.
 
 ### LIM Limitative
 
@@ -720,13 +709,13 @@ Your dog has grown much bigger over the last few months.
 
 ## Spatial cases
 
-<description>see [Correative](https://ithkuil.github.io/ithkuil/cases/#cor-correlative) in sentences involving spatial direction or orientation.</description>
+<description>see [Correlative](https://ithkuil.github.io/ithkuil/cases/#cor-correlative) in sentences involving spatial direction or orientation.</description>
 
 ### LOC Locative
 
 <description><this this>THIS</this> is in a static position at <this context>CONTEXT</this>.</description>
 
-> I'm on the 5th avenue.
+> I'm on 5th Avenue.
 
 > Let's meet at her place.
 
@@ -740,48 +729,48 @@ Your dog has grown much bigger over the last few months.
 
 <description><this this>THIS</this> serves as the “face” of movement, the arrow end of movement vector.</description>
 
-> I move backward.
+- I moved backward.
 
-> The bird fell with its tail downward.
+- The bird fell with its tail pointing downward.
 
 ### PSV Procursive
 
-<description><this this>THIS</this> is part of body or object faces <this context>CONTEXT</this> (usually <this context>[Allative](https://ithkuil.github.io/ithkuil/cases/#all-allative) CONTEXT</this>) thus forming the event.</description>
+<description><this this>THIS</this> is a part of the body or object facing <this context>CONTEXT</this</context> (usually <this context>[Allative](https://ithkuil.github.io/ithkuil/cases/#all-allative) CONTEXT</this>) thus forming the event.</description>
 
-> My hand touched the wall.
+- My hand touched the wall.
 
-> The car had its side too close to the motorcycle.
+- The car was too close to the motorcycle on its side.
 
 ### ALL Allative
 
 <description><this this>THIS</this> is the direction of movement.</description>
 
-> I ran westward.
+- I ran westward.
 
-> The dog jumped toward the hare.
+- The dog jumped toward the hare.
 
-> I threw the stick at the dog.
+- I threw the stick at the dog.
 
-> I went toward those mountains.
+- I went toward those mountains.
 
 ### ABL Ablative
 
 <description><this this>THIS</this> is the origin of movement or orientation.</description>
 
-> The fox appeared out of that hole.
+- The fox appeared out of that hole.
 
-> He looked away from the tree.
+- He looked away from the tree.
 
 ### NAV Navigative
 
 <description><this this>THIS</this> is the route of movement or vector.</description>
 
-> I looked down the river.
+- I looked down the river.
 
-> The dog crossed the street.
+- The dog crossed the street.
 
 ## Vocative
 
-> Oh ye, of little faith!
+- Oh ye of little faith!
 
 <lojban><jbo>doi</jbo></lojban>
