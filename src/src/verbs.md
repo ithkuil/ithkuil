@@ -2,7 +2,7 @@
 
 ## Aspect
 
-Aspect, also known as "tense contour," provides the inner structure of an event.
+Aspect is otherwise called “tense contour”, it provides inner structure of event.
 
 ### RTR Retrospective
 
@@ -12,7 +12,7 @@ Aspect, also known as "tense contour," provides the inner structure of an event.
 
 > [Retrospective](https://ithkuil.github.io/ithkuil/verbs/#rtr-retrospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded): <this another>ANOTHER</this> did it (Past Simple tense).
 
-> [Retrospective](https://ithkuil.github.io/ithkuil/verbs/#rtr-retrospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded) + [Gnomic](https://ithkuil.github.io/ithkuil/basic/#n-gnomic) + [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract): <this another>ANOTHER</this> did it, and it has always been like that.
+> [Retrospective](https://ithkuil.github.io/ithkuil/verbs/#rtr-retrospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded) + [Gnomic](https://ithkuil.github.io/ithkuil/basic/#n-gnomic) + [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract): <this another>ANOTHER</this> did it and it's always been like that.
 
 ### PRS Prospective
 
@@ -22,7 +22,7 @@ Aspect, also known as "tense contour," provides the inner structure of an event.
 
 > [Prospective](https://ithkuil.github.io/ithkuil/verbs/#prs-prospective) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded): <this another>ANOTHER</this> will have done it.
 
-> [Prospective](https://ithkuil.github.io/ithkuil/verbs/#prs-prospective) + [Gnomic](https://ithkuil.github.io/ithkuil/basic/#n-gnomic) + [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract): <this another>ANOTHER</this> will do it, and it will always be like that.
+> [Prospective](https://ithkuil.github.io/ithkuil/verbs/#prs-prospective) + [Gnomic](https://ithkuil.github.io/ithkuil/basic/#n-gnomic)+[Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract): <this another>ANOTHER</this> will do it and it will always be like that.
 
 ### HAB Habitual
 
@@ -30,246 +30,257 @@ Description:
 
 > [Habitual](https://ithkuil.github.io/ithkuil/verbs/#hab-habitual) + [Monadic](https://ithkuil.github.io/ithkuil/basic/#m-monadic): <this another>ANOTHER</this> always does <this this>THIS</this>. <this another>ANOTHER</this> continues to do <this this>THIS</this>
 
-- **Habitual** + **Unbounded**: Another used to do this.
+> [Habitual](https://ithkuil.github.io/ithkuil/verbs/#hab-habitual) + [Unbounded](https://ithkuil.github.io/ithkuil/basic/#u-unbounded): <this another>ANOTHER</this> used to do <this this>THIS</this>.
 
 ### PRG Progressive
 
-<description>This event is in progress.</description>
+<description><this this>THIS</this> event is in progress.</description>
 
-- You caught me in the midst of reading this grammar.
+> You caught me in the midst of reading this grammar.
 
 ### PCS Precessive
 
-<description>This just happened.</description>
+<description><this this>THIS</this> just happened.</description>
 
-- I just saw my old teacher.
+> I just saw my old teacher.
 
 ### IMM Imminent
 
-<description>This is about to start.</description>
+<description><this this>THIS</this> is about to start.</description>
 
 ### REG Regulative
 
-<description>Another is involved, engaged in this activity.</description>
+<description><this another>ANOTHER</this> is involved, engaged in <this this>THIS</this> activity.</description>
 
 ### EPR Experiential
 
-<description>This happens in the participant's experience.</description>
+<description><this this>THIS</this> happens in participant's experience.</description>
 
-- He is never healthy.
-- He has good sleep sometimes.
+> He is never healthy.
+
+> He has good sleep sometimes.
 
 ### PAU Pausal
 
-<description>This action is on pause but the actor is implied to have the intention to resume it later.</description>
+<description><this this>THIS</this> action is on pause but the actor is implied to have intention to resume it later.</description>
 
-- Take a break from your hard work!
+> Take a break from your hard work!
 
 ### CSS Cessative
 
-<description>This event is stopped.</description>
+<description><this this>THIS</this> event is stopped.</description>
 
-- He stopped breathing.
+> He stopped breathing.
 
 ### RCS Recessative
 
-<description>This event is stopped again after a previous stop.</description>
+<description><this this>THIS</this> event is stopped again after a previous stop.</description>
 
-- The car stopped moving again.
+> The car stopped moving again.
 
 ### RSM Resumptive
 
-<description>This event is resumed.</description>
+<description><this this>THIS</this> event is resumed.</description>
 
-- She started talking again.
+> She started talking again.
 
 ### RGR Regressive
 
-<description>The action of CONTEXT happens again by the will of ANOTHER actor after a break.</description>
+<description>The action of <this context>CONTEXT</this> happens again by the will of <this another>ANOTHER</this> actor after a break.</description>
 
-- He returned to his duties after a disease.
+> He returned to his duties after a disease.
 
 ### PCL Preclusive
 
-<description>This happens all in one act.</description>
+<description><this this>THIS</this> happens all in one act.</description>
 
-- He ran to the finish without stopping.
-- And she just lifted the rock in one attempt.
+> He ran to the finish without stopping.
+
+> And she just lifted the rock in one attempt.
 
 ### IMD Intermediative
 
-<description>This happens at some point of the CONTEXT event.</description>
+<description><this this>THIS</this> happens at some point of the <this context>CONTEXT</this> event.</description>
 
 ### CNT Continuative
 
-<description>This event continues.</description>
+<description><this this>THIS</this> event continues.</description>
 
-- She continued singing.
+> She kept on singing.
 
-- She no longer practices yoga.
+> She no longer practices yoga.
 
-- He stood in the rain waiting for his dog.
+> He stayed under the rain waiting for his dog.
 
 ### ICS Incessative
 
-<description><this this>THIS</this> event continues without stopping.</description>
+<description><this this>THIS</this> event goes on without stopping.</description>
 
-- And he kept trying to lift it.
+> And he was trying to lift it on and on.
 
 ### PMP Preemptive
 
-<description><this this>THIS</this> happens once, for the first time, or at last.</description>
+<description><this this>THIS</this> happens once / for the first time / at last.</description>
 
 ### CLM Climactic
 
 <description><this this>THIS</this> happens for the last time, finally.</description>
 
-- They successfully resolved the ecological problems of the region once and for all.
+> They managed to eliminate ecological problems of the region once and for all.
 
 ### PTC Protractive
 
-<description><this this>THIS</this> happens for a long time. When used with roots specifying short durations, it implies <this this>THIS</this> happens for too long.</description>
+<description><this this>THIS</this> happens for a long time. When used with root specifying short durations implies <this this>THIS</this> happens for too long.</description>
 
-- [Protractive](https://ithkuil.github.io/ithkuil/verbs/#ptc-protractive) + [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual): <this this>THIS</this> happens for too long.
+> [Protractive](https://ithkuil.github.io/ithkuil/verbs/#ptc-protractive) + [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual): <this this>THIS</this> happens for too long
 
-- [Protractive](https://ithkuil.github.io/ithkuil/verbs/#ptc-protractive) + [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual): <this this>THIS</this> happens for too long.
+> [Protractive](https://ithkuil.github.io/ithkuil/verbs/#ptc-protractive) + [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual): <this this>THIS</this> happens for too long
 
-- It rained all week long.
+> It was raining all week long.
 
 ### TMP Temporary
 
 <description><this this>THIS</this> happens only in the present <this context>CONTEXT</this>.</description>
 
-- I will leave it here for now.
+> I will leave it here for now.
 
 ### MTV Motive
 
 <description><this this>THIS</this> happens without <this another>ANOTHER</this>'s presence in <this context>CONTEXT</this>.</description>
 
-- He went for a walk with the dog in the mountains.
+> He went off for a walk with the dog to the mountains.
 
 ### SQN Sequential
 
-<description><this this>THIS</this> is an event with sequential stages forming a complete process or cycle.</description>
+<description><this this>THIS</this> is an event of sequential stages forming a complete process or cycle.</description>
 
-- The generation dies off so that the next cycle can start.
+> The generation dies off, so that the next cycle can start.
 
-- Mark off the elements and report to the boss.
+> Mark the elements off and report to the boss.
 
 ### CSQ Consequential
 
-<description><this this>THIS</this> action proceeds despite possible undesired consequences.</description>
+<description><this this>THIS</this> actions proceeds despite possible undesired consequences.</description>
 
-- He nevertheless entered the cage with the lion.
+> He nevertheless entered the cage with the lion.
 
 ### EPD Expeditive
 
-<description><this this>THIS</this> happens hastily.</description>
+<description><this this>THIS</this> happens in haste.</description>
 
-- He hastily put on his clothes.
+> He put clothes on in a hurry.
 
 ### DCL Disclusive
 
 <description><this another>ANOTHER</this> appears to be <this this>THIS</this>.</description>
 
-- He turned out to be a spy.
+> He happened to be a spy.
 
 ### CCL Conclusive
 
 <description><this this>THIS</this> is a direct consequence of the <this attached>ATTACHED</this> event.</description>
 
-- He ended up drowning while walking on thin ice.
+> He ended up drowning by walking on the thin ice.
 
 ### CUL Culminative
 
 <description><this this>THIS</this> is a direct consequence of the long-lasting complex <this attached>ATTACHED</this> event.</description>
 
-- Eventually, he had to reach out to the police.
+> Eventually, he had to contact the police.
 
 ### TRD Tardative
 
 <description><this this>THIS</this> loses its intensity over time.</description>
 
-- The sunlight is slowly fading away.
+> The sunlight is slowly fading out.
 
-- I find teaching children less enjoyable.
+> I enjoy teaching children less.
 
 ### TNS Transitional
 
 <description><this another>ANOTHER</this> actor prepares themselves to get involved in <this this>THIS</this> action.</description>
 
-- I'm becoming accustomed to your techniques.
+> I'm getting used to your techniques.
 
 ### ITC Intercommutative
 
 <description><this this>THIS</this> is a ricochet action triggered by the <this attached>ATTACHED</this> event.</description>
 
-- And I retaliated against him.
+> And I hit him back.
 
-- And she chuckled in response.
+> And she laughed in reply.
 
 ### CSM Consumptive
 
 <description><this this>THIS</this> action is all the <this context>CONTEXT</this> event is about.</description>
 
-- He stood waiting for her for three hours straight.
+> He stood for three hours only waiting for her.
 
 ### Examples
 
-- RTR already/simple past with unbounded
+> RTR already/simple past with unbounded
 
-- PRS +M will; +U will have; +N/A from now on
+> PRS +M will; +U will have; +N/A from now on
 
-- HAB used to
+> HAB used to
 
-- PRG in the middle of -ing
+> PRG in the middle of -ing
 
-- IMM just about to
+> IMM just about to
 
-- PCS happened just now
+> PCS happened just now
 
-- REG involved/engaged in doing
+> REG involved/engaged in doing
 
-- EPR at some point in one's experience
+> EPR at some point in one's experience
 
-- RSM resumed doing
+> RSM resumed doing
 
-- CSS stopped doing
+> CSS stopped doing
 
-- RCS stopped doing again
+> RCS stopped doing again
 
-- PAU paused in/take a break from
+> PAU paused in/take a break from
 
-- RGR returned after a hiatus
+> RGR returned after a hiatus
 
-- PCL all in one go
+> PCL all in one go
 
-- CNT keep on/still; not anymore when negative
+> CNT keep on/still; not anymore when negative
 
-- ICS continues on and on
+> ICS continues on and on
 
-- PMP just for once/at last
+> PMP just for once/at last
 
-- CLM once and for all/for the last time
+> CLM once and for all/for the last time
 
-- PTC for a long period of time; +CONTEXTUAL or +PUNCTUAL means long-delayed
+> PTC for a long period of time; +CONTEXTUAL or +PUNCTUAL means long-delayed
 
-- TMP for the time being
+> TMP for the time being
 
-- MTV brb doing something
+> MTV brb doing something
 
-- CSQ go ahead and do something anyway
+> CSQ go ahead and do something anyway
 
-- **SQN** to do a series of actions as a single event: "He's checking off each item..."
-- **EPD** hurry up and
-- **DCL** turn out to be
-- **CCL** end up/reach the point where
-- **CUL** eventually/in the end
-- **IMD** takes place at some point
-- **TRD** to get tired of doing
-- **TNS** to take up/to start to
-- **ITC** to do something back ("The boy threw it back")
-- **CSM** spend one's time
+> SQN to do a series of actions as a single event "He's checking off each item..."
+
+> EPD hurry up and
+
+> DCL turn out to be
+
+> CCL end up/reach the point where
+
+> CUL eventually/in the end
+
+> IMD takes place at some point
+
+> TRD to get tired of doing
+
+> TNS to take up/to start to
+
+> ITC to do something back ("The boy threw it back")
+
+> CSM spend one's time
 
 ## Phase
 
@@ -285,11 +296,15 @@ Description:
 
 <description><this this>THIS</this> is a point perfective event.</description>
 
-- It exploded.
-- It was a lightning.
-- The car collided.
-- He stabbed her.
-- And then a click sound happened.
+> It exploded.
+
+> It was a lightning.
+
+> The car collided.
+
+> He stabbed her.
+
+> And then a click sound happened.
 
 <lojban><jbo>co'i</jbo></lojban>
 
@@ -297,8 +312,9 @@ Description:
 
 <description><this this>THIS</this> is a repetition of a [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) event in a regular staccato manner.</description>
 
-- And she played staccato.
-- The alarm started ringing.
+> And she played staccato.
+
+> The alarm started ringing.
 
 <lojban><jbo>za'uroi je di'i co'i</jbo></lojban>
 
@@ -306,7 +322,7 @@ Description:
 
 <description><this this>THIS</this> is a repetition of a [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) event in a regular staccato manner.</description>
 
-- I heard the honk repeated several times.
+> I heard the honk repeated several times.
 
 <lojban><jbo>za'uroi je di'i</jbo>, <jbo>za'uroi je di'i ze'a</jbo></lojban>
 
@@ -314,81 +330,81 @@ Description:
 
 <description><this this>THIS</this> is an [Iterative](https://ithkuil.github.io/ithkuil/verbs/#itr-iterative) event but with some [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) events standing apart between contextually meaningful intervals.</description>
 
-- Each refrain starts with a click sound.
+> Each refrain starts with a click sound.
 
 ### RCT Recurrent
 
-<description><this this>THIS</this> is a repetition of a [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) event in a regular staccato manner but with the [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) events standing apart between contextually meaningful interval.
+<description><this this>THIS</this> is a repetition of a [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) event in a regular staccato manner but with the [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) events standing apart between contextually meaningful interval.</description>
 
-- The sound of a cuckoo was heard several times while we were eating dinner.
+> The sound of a cuckoo was heard several times while we were eating dinner.
 
 ### FRE Frequentative
 
-<description>An [Iterative](https://ithkuil.github.io/ithkuil/verbs/#itr-iterative) event where each instance of X is repeated at meaningful intervals, forming THIS event. THIS is of [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) type.</description>
+<description>An [Iterative](https://ithkuil.github.io/ithkuil/verbs/#itr-iterative) event <this>X</this> is repeated, each instance of <this>X</this> is separated by meaningful intervals and thus make up <this this>THIS</this> event. <this this>THIS</this> is of [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) type.</description>
 
 ### FRG Fragmentative
 
-<description>Irregularly repeated [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) events that collectively constitute THIS [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual) event.</description>
+<description>Irregularly repeated [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) events form <this this>THIS [Contextual](https://ithkuil.github.io/ithkuil/verbs/#ctx-contextual)</this> event.</description>
 
 <lojban><jbo>ze'a di'inai co'i</jbo></lojban>
 
 ### FLC Fluctuative
 
-<description>THIS is a series of irregularly repeated [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) and non-punctual events.</description>
+<description><this this>THIS</this> is a series of irregularly repeated [Punctual](https://ithkuil.github.io/ithkuil/verbs/#pun-punctual) and non-punctual events.</description>
 
-- The building was on fire with short explosions that were followed by the tongues of fire licking the wood. And that was happening here and there.
+> The building was on fire with short explosions that were followed by the tongues of fire licking the wood. And that was happening here and there.
 
 ## Function
 
 ### STA Stative
 
-<description>THIS is in a non-causative, non-dynamic state. Suitable for describing physical states like temperature or state of mind.</description>
+<description><this this>THIS</this> is in a non-causative non-dynamic state. Suitable for describing physical states like temperature of state of mind.</description>
 
-- She smiles due to a disease.
+> She smiles due to a disease.
 
 ### DYN Dynamic
 
-<description>THIS is in a causative/dynamic state. It involves actions, functions, or activities.</description>
+<description><this this>THIS</this> is in a causative/dynamic state. “Do some action”, “carry a function”, “perform activity”.</description>
 
-- She smiled at him.
+> She smiled at him.
 
 ### MNF Manifestive
 
-<description>THIS is a manifestation of identity.</description>
+<description><this this>THIS</this> is a manifestation of identity.</description>
 
-- Plato is a human.
+> Plato is a human.
 
-- My uncle is a president.
+> My uncle is a president.
 
 <lojban><jbo>me</jbo>, <jbo>jarco</jbo></lojban>
 
 ### DSC Descriptive
 
-<description>THIS shows appearance in THIS-UNDECORATED manner. It provides an adjective-like description.</description>
+<description><this this>THIS</this> shows appearance in <this undecorated>THIS-UNDECORATED</this> manner. Adjective-like description.</description>
 
 ### Usage examples
 
-- _I'm happy because of Ithkuil. Ithkuil makes me happy._
+> _I'm happy because of Ithkuil. Ithkuil makes me happy._
 
-- _I'm happy ([Stative](https://ithkuil.github.io/ithkuil/verbs/#sta-stative)) because Ithkuil exists._
+> _I'm happy ([Stative](https://ithkuil.github.io/ithkuil/verbs/#sta-stative)) because Ithkuil exists._
 
-- I express happiness ([Dynamic](https://ithkuil.github.io/ithkuil/verbs/#dyn-dynamic)) because of Ithkuil.
+> _I show happiness ([Dynamic](https://ithkuil.github.io/ithkuil/verbs/#dyn-dynamic)) because of Ithkuil._
 
-- STA: A state of eating a mango.
+> _STA: A state of eating a mango._
 
-- DYN: Eat a mango.
+> _DYN: Eat a mango._
 
-- MNF: to be a mango being eaten.
+> _MNF: to be a mango being eaten._
 
-- DSC: to be like a mango being eaten.
+> _DSC: to be like a mango being eaten._
 
-- DYN: I plant a tree.
+> _DYN: I plant a tree._
 
-- STA: The tree is being planted.
+> _STA: The tree is being planted._
 
-- MNF: It's a tree being planted.
+> _MNF: It's a tree being planted._
 
-- DSC: It looks to me like a tree being planted.
+> _DSC: It looks to me like a tree being planted._
 
 ## Mood
 
@@ -398,65 +414,65 @@ Note that in the following examples the choice of metalinguistic indicator <jbo>
 
 <description><this this>THIS</this> is certain without any <this attached>ATTACHED</this> presuppositions.</description>
 
-- His dog is big (it's known that there is his dog and that it's big).
+> His dog is big (it's known that there is his dog and that it's big).
 
 <lojban><jbo>pa sei fatci se'u gerku pe ra cu barda sei fatci</jbo></lojban>
 
 ### SUB Subjunctive
 
-<description>The <this attached>ATTACHED</this> presupposition is certain but <this context>CONTEXT</this</this> itself is not. Use [Bias](https://ithkuil.github.io/ithkuil/verbs/#bias) or [Validation](https://ithkuil.github.io/ithkuil/metalinguistic/#validation) to make factuality clear.</description>
+<description>The <this attached>ATTACHED</this> presupposition is certain but <this context>CONTEXT</this> itself is not. Use [Bias](https://ithkuil.github.io/ithkuil/verbs/#bias) or [Validation](https://ithkuil.github.io/ithkuil/metalinguistic/#validation) to make factuality clear.</description>
 
-- Maybe his dog is big. (it's known that there is his dog but it's not known if it's big)
+> Maybe his dog is big. (it's known that there is his dog but it's not know if it's big)
 
 <lojban><jbo>pa sei fatci se'u gerku pe ra cu barda ju'ocu'i</jbo></lojban>
 
 ### ASM Assumptive
 
-<description>The <this attached>ATTACHED</this</this> presupposition is uncertain.</description>
+<description>The <this attached>ATTACHED</this> presupposition is uncertain.</description>
 
-- If and only if he has a dog then it's big.
+> If and only if he has a dog then it's big.
 
 ### SPC Speculative
 
-<description>both the <this attached>ATTACHED</this</this> presupposition and <this context>CONTEXT</this</this> is uncertain.</description>
+<description>both the <this attached>ATTACHED</this> presupposition and <this context>CONTEXT</this> is uncertain.</description>
 
-- Maybe he has a dog and if he does then maybe it's big.
+> Maybe he has a dog and if he does then maybe it's big.
 
 ### COU Counterfactive
 
-<description>The <this attached>ATTACHED</this</this> presupposition is false or counterfactual. But if it were true then <this context>CONTEXT</this</this> would also be true.</description>
+<description>The <this attached>ATTACHED</this> presupposition is false or counterfactual. But if it were true then <this context>CONTEXT</this> would also be true.</description>
 
-- His dog would have been big by now. But he has no dog.
+> His dog would have been big by now. But he has no dog.
 
 <lojban>[?] <jbo>je'unai</jbo></lojban>
 
 ### HYP Hypothetical
 
-<description>The presupposition attached is counterfactual, and the context might be true or not.</description>
+<description>The <this attached>ATTACHED</this> presupposition is counterfactual and <this context>CONTEXT</this> might be true or not.</description>
 
 > His dog might have grown big by now. But he has no dog.
 
 ### IPL Implicative
 
-<description>The factuality of the context depends on the factuality of the presupposition attached. See [Wikipedia article](https://en.wikipedia.org/wiki/Epistemic_possibility) for more information.</description>
+<description>The factuality of <this context>CONTEXT</this> depends on the factuality of the <this attached>ATTACHED</this> presupposition. See [Wikipedia article](https://en.wikipedia.org/wiki/Epistemic_possibility) for more information.</description>
 
 > His dog must be big by now.
 
 ### ASC Ascriptive
 
-<description>Same as [Implicative](https://ithkuil.github.io/ithkuil/verbs/#ipl-implicative), but the context is uncertain.</description>
+<description>same as [Implicative](https://ithkuil.github.io/ithkuil/verbs/#ipl-implicative) but <this context>CONTEXT</this> is uncertain.</description>
 
-> His dog might be big by now (e.g., because he has lots of food at home)
+> His dog might be big by now (e.g. because he has lots of food at home)
 
 ## Version
 
 ### PRC Processual
 
-<description>The goal/end state of the context process is not focused if present at all.</description>
+<description>the goal/end state of the <this context>CONTEXT</this> process is not focused if present at all.</description>
 
 ### CPT Completive
 
-<description>The context process is intended to succeed/finish as expected.</description>
+<description>the <this context>CONTEXT</this> process is intended to succeed/finish as expected.</description>
 
 ### Usage examples
 
@@ -481,13 +497,13 @@ Note that in the following examples the choice of metalinguistic indicator <jbo>
 
 ### INE Ineffectual
 
-<description>There is an intention in the context for [Processual](https://ithkuil.github.io/ithkuil/verbs/#prc-processual) and is not yet successful or unsuccessful.</description>
+<description>there is an intention in <this context>CONTEXT</this> for [Processual](https://ithkuil.github.io/ithkuil/verbs/#prc-processual) and is not yet successful or unsuccessful.</description>
 
 > I tried to eat the mango but couldn't.
 
 ### INC Incompletive
 
-<description>There is an intention in the context for [Completive](https://ithkuil.github.io/ithkuil/verbs/#cpt-completive) but is unsuccessful.</description>
+<description>there is an intention in <this context>CONTEXT</this> for [Completive](https://ithkuil.github.io/ithkuil/verbs/#cpt-completive) but is unsuccessful.</description>
 
 > I tried to eat the mango up but couldn't.
 
@@ -517,7 +533,7 @@ Lojban translations are mostly done by la gejyspa
 
 ### HPB Hyperbolic
 
-<description><this context>CONTEXT</this> is an exaggeration on the part of <this speaker>SPEAKER</this>.</description>
+<description><this context>CONTEXT</this> is an exaggeration on part of <this speaker>SPEAKER</this>.</description>
 
 > That's totally not what I expected.
 
@@ -563,7 +579,7 @@ Lojban translations are mostly done by la gejyspa
 
 > Hm. How odd…
 
-> What? Huh?
+> Wat? Huh?
 
 <lojban><jbo>uanai</jbo>, <jbo>ue</jbo></lojban>
 
@@ -638,12 +654,11 @@ Lojban translations are mostly done by la gejyspa
 
 <description>In other words ...</description>
 
-```markdown
 <lojban><jbo>va'i</jbo></lojban>
 
 ### SKP Skeptical
 
-<description><this speaker>SPEAKER</this> expresses skepticism and incredulity about <this context>CONTEXT</this>.</description>
+<description><this speaker>SPEAKER</this> shows skepticism, incredibility regarding <this context>CONTEXT</this>.</description>
 
 > Not that one would believe in that but ...
 
@@ -651,37 +666,37 @@ Lojban translations are mostly done by la gejyspa
 
 ### CYN Cynical
 
-<description><this speaker>SPEAKER</this> displays cynical surprise and sarcasm towards <this context>CONTEXT</this>.</description>
+<description><this speaker>SPEAKER</this> shows cynical surprise, sarcasm towards <this context>CONTEXT</this>.</description>
 
 > Seriously?!
 
 > Oh yeah, sure! [sarcastically]
 
-<lojban>[?] This implies more than just “I can't believe it.” <jbo>u'i</jbo>, <jbo>ianai</jbo>, <jbo>xo'o</jbo>, <jbo>zo'odaipei</jbo></lojban>
+<lojban>[?] this implies more than a “I can't believe”. <jbo>u'i</jbo>, <jbo>ianai</jbo>, <jbo>xo'o</jbo>, <jbo>zo'odaipei</jbo></lojban>
 
 ### CTP Contemptive
 
-<description><this speaker>SPEAKER</this> disapproves and dislikes <this context>CONTEXT</this>. <this context>CONTEXT</this> is disgusting to <this speaker>SPEAKER</this>.</description>
+<description><this speaker>SPEAKER</this> disapproves, doesn't like<this context>CONTEXT</this>. <this context>CONTEXT</this> is disgusting to <this speaker>SPEAKER</this>.</description>
 
 <lojban>.oi, .a'unai, .i'anai, iunai</lojban>
 
 ### DSM Dismissive
 
-<description>Lowering of expectations in the listener.</description>
+<description>lowering of expectations in the listener.</description>
 
 > Well, that's still okay with you.
 
 > So what?
 
-<lojban>[?] Could it be <jbo>ga'inai</jbo> possibly?</lojban>
+<lojban>[?] <jbo>ga'inai</jbo> possibly?</lojban>
 
 ### IDG Indignative
 
-<description>Expressing second-guessing.</description>
+<description>second-guessing.</description>
 
 > Pardon?
 
-> Repeat once again, you want me to …?!
+> Repeat once again, you want me to … ?!
 
 > Ehm, what?
 
@@ -702,7 +717,7 @@ Lojban translations are mostly done by la gejyspa
 
 ### PPV Propositive
 
-<description><this context>CONTEXT</this> is a proposal or suggestion on behalf of <this speaker>SPEAKER</this>.</description>
+<description><this context>CONTEXT</this> is a proposal, suggestion on behalf of <this speaker>SPEAKER</this>.</description>
 
 > How about a picnic next weekend?
 
@@ -712,42 +727,41 @@ Lojban translations are mostly done by la gejyspa
 
 ## Modality
 
-Modality determines the types of imaginary and non-imaginary events, such as those described by:
+Modality determines types of imaginary/non-imaginary events like those described by:
 
 > <this another>ANOTHER</this> wants/needs/asks to DO <this this>THIS</this>.
 
 > <this another>ANOTHER</this> may/can/must/should DO <this this>THIS</this>.
-```
 
-- **ANOTHER** chooses to DO **THIS** (non-imaginary).
+> <this another>ANOTHER</this> chooses to DO <this this>THIS</this> (non-imaginary).
 
-- **ANOTHER** believes that **THIS** happens.
+> <this another>ANOTHER</this> believes that <this this>THIS</this> happens.
 
-**ANOTHER** is usually [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative), **THIS** usually changes [Essence](https://ithkuil.github.io/ithkuil/basic/#essence), [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective), and [Modality](https://ithkuil.github.io/ithkuil/verbs/#modality) at the same time (e.g. [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract) [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective), [Representative](https://ithkuil.github.io/ithkuil/basic/#rpv-representative) (if imaginary) [Essence](https://ithkuil.github.io/ithkuil/basic/#essence)).
+<this another>ANOTHER</this> is usually [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative), <this this>THIS</this> usually changes [Essence](https://ithkuil.github.io/ithkuil/basic/#essence), [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective) and [Modality](https://ithkuil.github.io/ithkuil/verbs/#modality) at the same time (e.g. [Abstract](https://ithkuil.github.io/ithkuil/basic/#a-abstract) [Perspective](https://ithkuil.github.io/ithkuil/basic/#perspective), [Representative](https://ithkuil.github.io/ithkuil/basic/#rpv-representative) (if imaginary) [Essence](https://ithkuil.github.io/ithkuil/basic/#essence)).
 
 ### DES Desiderative
 
-<description>**ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) wants **THIS** to happen, **ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) has a desire for **THIS** to happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> wants <this this>THIS</this> to happen, <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has a desire for <this this>THIS</this> to happen.</description>
 
 ### ASP Aspirative
 
-<description>**ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) wishes that **THIS** happens, **ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) hopes that **THIS** happens.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> wishes that <this this>THIS</this> happens, <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> hopes that <this this>THIS</this> happens.</description>
 
 ### EPC Expectative
 
-<description>**ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) expects **THIS** to happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> expects <this this>THIS</this> to happen.</description>
 
 ### CRD Credential
 
-<description>**ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) believes that **THIS** is true. Doesn't imply “to opine that ...”.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> believes that <this this>THIS</this> is true. Doesn't imply “to opine that ...”).</description>
 
 ### REQ Requisitive
 
-<description>**ANOTHER** [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative) makes a request so that **THIS** happens.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> makes a request so that <this this>THIS</this> happens.</description>
 
 ### EXH Exhortative
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> demands that <this this>THIS</this> should happen.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> demands for <this this>THIS</this> to happen.</description>
 
 ### OPR Opportunitive
 
@@ -759,13 +773,13 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 ### PRM Permissive
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is allowed to do <this this>THIS</this>, has permission to do <this this>THIS</this>, may do <this this>THIS</this> (if given permission).</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is allowed to do <this this>THIS</this>, has permission to do <this this>THIS</this>, may do <this this>THIS</this> (in having permissions).</description>
 
 > May I come in?
 
 ### PTN Potential
 
-<description>It's possible that <this this>THIS</this> happens; <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> can potentially be/do <this this>THIS</this>.</description>
+<description>It's possible that <this this>THIS</this> happens, <this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> can potentially be/do <this this>THIS</this>.</description>
 
 > The gates may open at any time.
 
@@ -779,7 +793,7 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 > You should tell that to your parents.
 
-> It would be better if you were wearing a scarf.
+> It'd be better if you were wearing a scarf.
 
 > Students shall not argue with professors.
 
@@ -797,7 +811,7 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 ### ITV Intentive
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has the intention to be/do <this this>THIS</this>, plans to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has intention to be/do <this this>THIS</this>, plans to do <this this>THIS</this>..</description>
 
 ### ANT Anticipative
 
@@ -825,7 +839,7 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 ### VOL Voluntative
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> volunteers to do <this this>THIS</this> and offers <this this>THIS</this> help.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> volunteers to do <this this>THIS</this>, offers <this this>THIS</this> help.</description>
 
 ### ACC Accordative
 
@@ -833,19 +847,19 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 ### ICL Inclinative
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is up for doing <this this>THIS</this> and has a sudden desire to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is up for doing <this this>THIS</this>, has sudden desire to do <this this>THIS</this>.</description>
 
 ### CML Compulsive
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> feels a compulsion and a need to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has compulsion, feels a need to do <this this>THIS</this>.</description>
 
 ### DVR Divertive
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> enjoys doing <this this>THIS</this> and likes to do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> enjoys doing <this this>THIS</this>, likes to do <this this>THIS</this>.</description>
 
 ### DVT Devotive
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is devoted and committed to doing <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> is devoted, committed to doing <this this>THIS</this>.</description>
 
 ### PFT Preferential
 
@@ -855,13 +869,13 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 ### IPS Impressional
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has a subjective impression that <this this>THIS</this> is true.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> has subjective impression that <this this>THIS</this> is true.</description>
 
 > I feel that he was lying to me.
 
 ### PMS Promissory
 
-<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> promises that <this another>ANOTHER</this> will do <this this>THIS</this>.</description>
+<description><this another>ANOTHER [Activative](https://ithkuil.github.io/ithkuil/cases/#act-activative)</this> promises that <this another>ANOTHER</this> would do <this this>THIS</this>.</description>
 
 > I swear I will visit your grandmother on my way home next week.
 
@@ -869,35 +883,63 @@ Modality determines the types of imaginary and non-imaginary events, such as tho
 
 > DES to want to
 
-- ASP: hope to
-- EPC: expect to
-- CRD: believe that
-- REQ: request that
-- EXH: demand that
-- OPR: have the opportunity to
-- CPC: have the ability to
-- PRM: be permitted to
-- PTN: have the possibility of
-- CLS: must do/have to do
-- OBG: should/ought to
-- IMS: be expected to
-- ADV: suggest that
-- ITV: intend to
-- ANT: look forward to
-- DSP: be willing to
-- PRE: be ready to
-- NEC: be necessary to
-- DCV: decide to/choose to
-- PTV: tend to/be prone to
-- VOL: offer to/volunteered to
-- ACC: agree to
-- ICL: feel like/be up for
-- CML: feel driven to/feel a need to
-- DVR: like to/enjoy
-- DVT: be devoted to/be committed to
-- PFT: prefer/would rather
-- IPS: have an impression/feel that; a subjective belief/impression
-- PMS: promise/swear that
+> ASP to hope that
+
+> EPC to expect to
+
+> CRD to believe that
+
+> REQ to request that
+
+> EXH to demand that
+
+> OPR to have the opportunity to
+
+> CPC to have the ability to
+
+> PRM to be permitted to
+
+> PTN to have the possibility of
+
+> CLS must do/have to do
+
+> OBG should/ought to
+
+> IMS be expected to
+
+> ADV suggest that
+
+> ITV intend to
+
+> ANT look forward to
+
+> DSP to be willing to
+
+> PRE be ready to
+
+> NEC be necessary to
+
+> DCV decide to/choose to
+
+> PTV tend to/be prone to
+
+> VOL offer to/volunteered to
+
+> ACC agree to
+
+> ICL feel like/be up for
+
+> CML feel driven to/feel a need to
+
+> DVR like to/enjoy
+
+> DVT be devoted to/be committed to
+
+> PFT prefer/would rather
+
+> IPS to have an impression/feel that; a subjective belief/impression
+
+> PMS to promise/swear that
 
 ## Valence
 
@@ -911,37 +953,39 @@ Marks that and how several members of <this context>CONTEXT</this> participate i
 
 <description><this another>ANOTHER</this> participated in action of <this context>CONTEXT</this> alongside <this this>THIS</this>.</description>
 
-- They built the house together.
-- One would have had the same opinion in this situation.
+> They built the house together.
+
+> One would have had the same opinion in this situation.
 
 ### PTI Participative
 
 <description><this another>ANOTHER</this> and <this this>THIS</this> both take part in a complete action.</description>
 
-- They both took part in the Olympic Games.
+> They both took part in the Olympic Games.
 
 ### CRO Corollary
 
 <description><this this>THIS</this> has various actions related to <this context>CONTEXT</this>.</description>
 
-- The team built the house (some made the basement, others made the roof etc.)
+> The team built the house (some made the basement, others made the roof etc.)
 
 ### CPL Complementary
 
 <description><this this>THIS</this> performs one side of action, and <this another>ANOTHER</this> performs the other side. The two sides complete the action of <this context>CONTEXT</this>.</description>
 
-- My friend and I played chess.
-- She told me a fairy tale.
+> My friend and I played chess.
+
+> She told me a fairy tale.
 
 ### RCP Reciprocal
 
-<description><this this>THIS</this> and every other example of a <this another>ANOTHER</this> participant have reciprocal relationship.
+<description><this this>THIS</this> and every other example of a <this another>ANOTHER</this> participant have reciprocal relationship.</description>
 
 > They talk to each other.
 
 ### NNR Nonrelational
 
-<description><this another>ANOTHER</this> participates in an activity irrelevant to <this context>CONTEXT</this>.</description>
+<description><this another>ANOTHER</this> participates in an irrelevant to <this context>CONTEXT</this> activity.</description>
 
 > He helped build the house while she didn't.
 
@@ -953,13 +997,13 @@ Marks that and how several members of <this context>CONTEXT</this> participate i
 
 ### IMT Imitative
 
-<description><this another>ANOTHER</this> imitates, trying to replicate the action performed by <this this>THIS</this>.</description>
+<description><this another>ANOTHER</this> imitates, tries to take the action performed by <this this>THIS</this>.</description>
 
 > He built a card house for her (and she tried to reproduce it).
 
 ### DEM Demonstrative
 
-<description><this another>ANOTHER</this> shows <this this>THIS</this> how the action is done.</description>
+<description><this another>ANOTHER</this> shows for <this this>THIS</this> how the action is done.</description>
 
 > The child performed an exercise in skating after her trainer.
 
@@ -967,9 +1011,9 @@ Marks that and how several members of <this context>CONTEXT</this> participate i
 
 ### RES Resistive
 
-<description><this another>ANOTHER</this> avoids taking the action of <this context>CONTEXT</this> performed by <this this>THIS</this>.</description>
+<description><this another>ANOTHER</this> avoids taking action of <this context>CONTEXT</this> performed by <this this>THIS</this>.</description>
 
-> Still, they took me to the zoo (although I didn't want to go).
+> Still they took me to the zoo (although I didn't want it).
 
 ### CNG Contingent
 
@@ -979,14 +1023,14 @@ Marks that and how several members of <this context>CONTEXT</this> participate i
 
 ### IDC Indicative
 
-<description><this another>ANOTHER [Affective](https://ithkuil.github.io/ithkuil/cases/#aff-affective)</this> or <this another>ANOTHER [Dative](https://ithkuil.github.io/ithkuil/cases/#dat-dative)</this> understands the meaning of the action of <this this>THIS</this> from <this another>ANOTHER [Inducive](https://ithkuil.github.io/ithkuil/cases/#ind-inducive)</this>.</description>
+<description><this another>ANOTHER [Affective](https://ithkuil.github.io/ithkuil/cases/#aff-affective)</this> or <this another>ANOTHER [Dative](https://ithkuil.github.io/ithkuil/cases/#dat-dative)</this> gets understanding, meaning of the action of <this this>THIS</this> from <this another>ANOTHER [Inducive](https://ithkuil.github.io/ithkuil/cases/#ind-inducive)</this>.</description>
 
-> I read the text to them (and they understood the subtext).
+> I read the text to them (and they got the subtext).
 
 ### MUT Mutual
 
-<description><this another>ANOTHER</this> and <this this>THIS</this> take turns performing the action.</description>
+<description><this another>ANOTHER</this> and <this this>THIS</this> take turns in performing the action.</description>
 
-> Just take one step at a time.
+> Just make one step at a time.
 
 > We work every other day.

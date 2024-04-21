@@ -96,16 +96,19 @@
 
 <description><this this>THIS</this> is a mass formed from a set of non-uniform elements mixed with each other forming a new entity.</description>
 
-- a wooden table
-- speech
-- jungle
-- sandwich
+> a wooden table
+
+> speech
+
+> jungle
+
+> sandwich
 
 ### MLT Multiform
 
 <description><this this>THIS</this> is a fuzzy set of elements.</description>
 
-- Kalmykian steppe that fuzzily changes into desert in some places
+> Kalmykian steppe that fuzzily changes into desert in some places
 
 ## Affiliation
 
@@ -113,37 +116,49 @@
 
 <description>members of <this this>THIS</this> set have no design or purpose and occur non-artificially, naturally as members of <this this>THIS</this> set. Individual members of <this this>THIS</this> set would use [Consolidative](https://ithkuil.github.io/ithkuil/basic/#csl-consolidative) and [Uniplex](https://ithkuil.github.io/ithkuil/basic/#uni-uniplex) thus denoting no inherent purpose.</description>
 
-- a grove
-- leaves of the plant
-- raindrops from the cloud
-- The rock has always been here even before the road was built.
-- I turned my head toward the tree and unexpectedly saw something there.
+> a grove
+
+> leaves of the plant
+
+> raindrops from the cloud
+
+> The rock has always been here even before the road was built.
+
+> I turned my head toward the tree and unexpectedly saw something there.
 
 ### ASO Associative
 
 <description>members of <this this>THIS</this> set share the same purpose.</description>
 
-- an orchard
-- identical screwdrivers
-- But this rock is a road sign.
-- I turned my head toward the noise from the tree and saw not a cat as I expected but a crow.
+> an orchard
+
+> identical screwdrivers
+
+> But this rock is a road sign.
+
+> I turned my head toward the noise from the tree and saw not a cat as I expected but a crow.
 
 ### VAR Variative
 
 <description>at least one member of <this this>THIS</this> has purposes different from purposes of other members of <this this>THIS</this>.</description>
 
-- People of different backgrounds appeared in the same square by chance.
-- a mixture of overlapping voices saying different things
-- My appearance had several unrelated consequences.
+> People of different backgrounds appeared in the same square by chance.
+
+> a mixture of overlapping voices saying different things
+
+> My appearance had several unrelated consequences.
 
 ### COA Coalescent
 
 <description>members of <this this>THIS</this> set have a mutual synergy relationship to each other. Duplex is usually combined with Coalescent.</description>
 
-- a complete toolset for fixing cars
-- a seven-course meal
-- my eyes
-- I worked out a plan of fighting the fire
+> a complete toolset for fixing cars
+
+> a seven-course meal
+
+> my eyes
+
+> I worked out a plan of fighting the fire
 
 ## Perspective
 
@@ -202,6 +217,7 @@ GRA dawn      | verge/brink      | brightening/shine  |
 DPL dusk      | outskirt/limit   | darkening/dim      |
 ATV evening   | exit/back/end    | light at target    |
 Depletive does not necessarily indicate the complete undoing or retrogression of an entity, just the instance where it fades out or slows down, which can occur in the middle of whatever it is/whatever it is doing, not just at the boundaries. Same goes for Graduative. Like gleki said, these are like a progressive aspect of what 'currently' or 'locally' changes. Still, they work for both Stative and Dynamic entities. I guess 'increasing' and 'decreasing' work in place of 'development' and 'regression'. Ultimately, the approaching/withdrawing metaphor is an attempt to make extension simpler to understand. PRX is a static context and entity, ICP and ATV are a changing context, and GRA and DPL are a changing entity.
+
 -->
 
 ### DEL Delimitive
@@ -238,7 +254,7 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### GRA Graduative
 
-<description><this this>THIS</this> is a closest, beginning border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away, or poorly understood.</description>
+<description><this this>THIS</this> is a closest, beginning border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away or poorly understood.</description>
 
 > The darkness that had come in from the Mediterranean covered the city so detested by the procurator.
 
@@ -248,7 +264,7 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### DPL Depletive
 
-<description><this this>THIS</this> is a farthest, terminal, least accessible border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away, or poorly understood.</description>
+<description><this this>THIS</this> is a farthest, terminal, least accessible border of <this undecorated>THIS-UNDECORATED</this> entity (raising) where the border is fuzzy, fades away or poorly understood.</description>
 
 > There is not much time left.
 
@@ -264,39 +280,39 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 
 ### EXS Existential
 
-<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in its simple existential objective nature. No purpose or contextual value is added.</description>
+<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in its simple existential objective nature. No purpose of in-context value is added.</description>
 
-> There were birds and monkeys sitting there (no attitude toward the scene or use of the scene is implied).
+> There were birds and monkeys sitting there (no attitude toward the scene or use of the scene is implied)
 
 ### FNC Functional
 
-<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> as viewed personally important or within a social <this context>CONTEXT</this> in its purpose, value, or attitude towards it.</description>
+<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> as viewed personally important or within social <this context>CONTEXT</this> in its purpose, value or attitude towards it.</description>
 
-> And here came the cattle, the one I had taken care of a lot.
+> And here came the cattle, the one I had taken care a lot.
 
-> There were birds there, and the birds were what I had expected to see to take a photo of them and maybe catch one.
+> There were birds there, and the birds were what I had expected to see to make a photo of them and maybe catch one.
 
-> There were birds sitting there, and since they were sitting, there would be no danger to me by being there either.
+> There were birds sitting there, and since they were sitting then there would be no danger to me to be there either.
 
 ### RPS Representational
 
-<description><this this>THIS</this> is a symbol having the same meaning as <this undecorated>THIS-UNDECORATED</this> through a metaphorical transfer or elevation.</description>
+<description><this this>THIS</this> is a symbol having the same meaning as <this undecorated>THIS-UNDECORATED</this> through a metaphorical transfer or raising.</description>
 
 > White collars demand a lot.
 
 > The Kremlin is curious about the situation in Kalmykia.
 
-> They still sleep together (i.e., they still love or have intercourse).
+> They still sleep together (i.e. they still love or have intercourse).
 
 ### AMG Amalgamative
 
-<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in the totality of history, historical attitude, and use of <this this>THIS</this> concept.</description>
+<description><this this>THIS</this> is <this undecorated>THIS-UNDECORATED</this> in totality of the history, historical attitude and use of <this this>THIS</this> concept.</description>
 
 > There were apes over there (so apes could live there, that place was suitable for the nature of apes).
 
-> The blue sky is the place into which my caged bird flew away (and the blue expanse of the sky is the haven of birds, etc.).
+> The blue sky is the place into which my cage bird flew away (and the blue expanse of the sky is the haven of birds etc.)
 
-> I like theater (which all started in Ancient Greece and is so much revered all across the globe, etc.).
+> I like theater (which all started in Ancient Greece and is so much revered all across the globe etc.)
 
 ## Designation
 
@@ -311,10 +327,15 @@ Depletive does not necessarily indicate the complete undoing or retrogression of
 ### Comparison
 
 > [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): revered thing, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): idol
+
 > [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): eat, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): have a meal
+
 > [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): tools, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): equipment
+
 > [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): pit, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): moat
+
 > [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): pit where water persists, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): water reservoir
+
 > [IFL](https://ithkuil.github.io/ithkuil/basic/#ifl-informal): success, [FML](https://ithkuil.github.io/ithkuil/basic/#fml-formal): prosperity
 
 ## Essence

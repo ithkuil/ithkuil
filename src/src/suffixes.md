@@ -1,18 +1,18 @@
-# Diversos sufixos
+# Various suffixes
 
-Cada sufixo possui 9 subdivisões possíveis chamadas de "graus".
+Each suffix has 9 possible subdivisions called "degrees".
 
-## Elementos sintáticos TPF + tópico/foco
+## TPF Syntactic elements + topic/focus
 
-### Representação de tópico
+### Topic representation
 
 <table>
 <tbody>
 <tr>
 <th></th>
-<th>tópico</th>
-<th>cláusula completa termina aqui</th>
-<th>cabeça da cláusula relativa</th>
+<th>topic</th>
+<th>full clause ends here</th>
+<th>head of relative clause</th>
 <tr>
 <th></th>
 <td>1</td>
@@ -20,13 +20,13 @@ Cada sufixo possui 9 subdivisões possíveis chamadas de "graus".
 <td>3</td>
 </tr>
 <tr>
-<th>+ cabeça da cláusula relativa</th>
+<th>+ head of relative clause</th>
 <td>4</td>
 <td>5</td>
 <td>-</td>
 </tr>
 <tr>
-<th>+ cláusula completa termina aqui</th>
+<th>+ full clause ends here</th>
 <td>6</td>
 <td>-</td>
 <td>-</td>
@@ -34,22 +34,22 @@ Cada sufixo possui 9 subdivisões possíveis chamadas de "graus".
 </tbody>
 </table>
 
-### Representação alternativa com foco
+### Alternative representation with focus
 
 <table>
 <tbody>
 <tr>
 <th>&nbsp;</th>
-<th>foco</th>
-<th>tópico</th>
-<th>cláusula completa termina aqui
+<th>focus</th>
+<th>topic</th>
+<th>full clause ends here
 </th>
-<th>cabeça da cláusula relativa</th>
+<th>head of relative clause</th>
 </tr>
 <tr>
 <td>1</td>
 <td>-</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -57,7 +57,7 @@ Cada sufixo possui 9 subdivisões possíveis chamadas de "graus".
 <td>2</td>
 <td>-</td>
 <td>-</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
 </tr>
 <tr>
@@ -65,48 +65,48 @@ Cada sufixo possui 9 subdivisões possíveis chamadas de "graus".
 <td>-</td>
 <td>-</td>
 <td>-</td>
-<td>sim</td>
+<td>yes</td>
 </tr>
 <tr>
 <td>4</td>
 <td>-</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
-<td>sim</td>
+<td>yes</td>
 </tr>
 <tr>
 <td>5</td>
 <td>-</td>
 <td>-</td>
-<td>sim</td>
-<td>sim</td>
+<td>yes</td>
+<td>yes</td>
 </tr>
 <tr>
 <td>6</td>
 <td>-</td>
-<td>sim</td>
-<td>sim</td>
+<td>yes</td>
+<td>yes</td>
 <td>-</td>
 </tr>
 <tr>
 <td>7</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
-<td>sim</td>
-<td>sim</td>
+<td>yes</td>
+<td>yes</td>
 </tr>
 <tr>
 <td>8</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
 <td>9</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
-<td>sim</td>
+<td>yes</td>
 <td>-</td>
 </tr>
 </tbody>
